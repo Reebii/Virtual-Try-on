@@ -64,20 +64,22 @@
 ### Quick Setup
 
 # Clone repository
-git clone https://github.com/your-username/virtual-try-on-ai.git
+git clone ....
 cd virtual-try-on-ai
 
 # Create virtual environment
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+source venv/bin/activate 
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Set up environment variables
 cp .env.example .env
-# Edit .env with your Gemini API key
 
+
+# Edit .env with your Gemini API key
 
 # .env file
 # Gemini API Configuration
@@ -93,4 +95,5 @@ MAX_RETRIES=XX
 
 # Run the virtual try-on system
 python main.py
+
 
