@@ -51,35 +51,8 @@
 └── 🏷️ zucchini_closeup.png
 
 
-
-
-## 🛠️ Installation
-
-### Prerequisites
-
-- Python 3.8+
-- Google Gemini API Key
-- 4GB+ RAM
-
-### Quick Setup
-
-# Clone repository
-git clone ....
-cd virtual-try-on-ai
-
-# Create virtual environment
-python -m venv venv
-
-source venv/bin/activate 
-
-# Install dependencies
+# Install dependencies (Installation)
 pip install -r requirements.txt
-
-# Set up environment variables
-cp .env.example .env
-
-
-# Edit .env with your Gemini API key
 
 # .env file
 GEMINI_API_KEY=AIzaxxx.........
@@ -93,6 +66,7 @@ MAX_RETRIES=XX
 
 # Run the virtual try-on system
 python main.py
+
 
 
 
