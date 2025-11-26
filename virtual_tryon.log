@@ -1,0 +1,2088 @@
+2025-11-24 17:28:12,696 - virtual_tryon - INFO - Starting virtual try-on pipeline...
+2025-11-24 17:28:12,718 - virtual_tryon - INFO - Found 3 valid input images
+2025-11-24 17:28:23,999 - virtual_tryon - INFO - Image analysis completed successfully
+2025-11-24 17:28:56,049 - virtual_tryon - INFO - Successfully generated front view
+2025-11-24 17:29:44,198 - virtual_tryon - INFO - Successfully generated back view
+2025-11-24 17:30:08,491 - virtual_tryon - INFO - Successfully generated side view
+2025-11-24 17:30:33,932 - virtual_tryon - INFO - Successfully generated close-up view
+2025-11-24 17:30:33,932 - virtual_tryon - INFO - Successfully generated 4 images
+2025-11-24 17:37:05,239 - virtual_tryon - INFO - ✅ Gemini API configured successfully
+2025-11-24 17:37:05,239 - virtual_tryon - INFO - ✅ Nano Banana Pro (Gemini 3 Pro Image) initialized successfully!
+2025-11-24 17:37:05,239 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-24 17:37:05,240 - virtual_tryon - INFO - Starting virtual try-on pipeline...
+2025-11-24 17:37:05,256 - virtual_tryon - INFO - Found 3 valid input images
+2025-11-24 17:37:05,256 - virtual_tryon - INFO - 🔍 Analyzing 3 images with Gemini...
+2025-11-24 17:37:12,609 - virtual_tryon - INFO - ✅ Image analysis completed successfully
+2025-11-24 17:37:12,612 - virtual_tryon - INFO - Image analysis completed successfully
+2025-11-24 17:37:12,613 - virtual_tryon - INFO - 🎨 Generating front view with Nano Banana Pro (2K)...
+2025-11-24 17:37:12,614 - virtual_tryon - INFO - 🍌 Calling Nano Banana Pro API...
+2025-11-24 17:37:52,076 - virtual_tryon - INFO - ✅ Successfully generated front view with Nano Banana Pro!
+2025-11-24 17:37:52,077 - virtual_tryon - INFO - 💾 Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\generated_front.png
+2025-11-24 17:37:52,078 - virtual_tryon - INFO - Successfully generated front view
+2025-11-24 17:37:54,079 - virtual_tryon - INFO - 🎨 Generating back view with Nano Banana Pro (2K)...
+2025-11-24 17:37:54,080 - virtual_tryon - INFO - 🍌 Calling Nano Banana Pro API...
+2025-11-24 17:38:36,405 - virtual_tryon - INFO - ✅ Successfully generated back view with Nano Banana Pro!
+2025-11-24 17:38:36,406 - virtual_tryon - INFO - 💾 Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\generated_back.png
+2025-11-24 17:38:36,407 - virtual_tryon - INFO - Successfully generated back view
+2025-11-24 17:38:38,408 - virtual_tryon - INFO - 🎨 Generating side view with Nano Banana Pro (2K)...
+2025-11-24 17:38:38,410 - virtual_tryon - INFO - 🍌 Calling Nano Banana Pro API...
+2025-11-24 17:39:04,350 - virtual_tryon - INFO - ✅ Successfully generated side view with Nano Banana Pro!
+2025-11-24 17:39:04,351 - virtual_tryon - INFO - 💾 Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\generated_side.png
+2025-11-24 17:39:04,351 - virtual_tryon - INFO - Successfully generated side view
+2025-11-24 17:39:06,352 - virtual_tryon - INFO - 🎨 Generating close-up view with Nano Banana Pro (2K)...
+2025-11-24 17:39:06,353 - virtual_tryon - INFO - 🍌 Calling Nano Banana Pro API...
+2025-11-24 17:39:58,708 - virtual_tryon - INFO - ✅ Successfully generated close-up view with Nano Banana Pro!
+2025-11-24 17:39:58,709 - virtual_tryon - INFO - 💾 Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\generated_close_up.png
+2025-11-24 17:39:58,710 - virtual_tryon - INFO - Successfully generated close-up view
+2025-11-24 17:39:58,711 - virtual_tryon - INFO - Successfully generated 4 images
+2025-11-25 00:14:01,265 - virtual_tryon - INFO - ✅ Gemini API configured successfully
+2025-11-25 00:14:01,267 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 00:14:01,267 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 00:14:01,267 - virtual_tryon - INFO - Starting virtual try-on pipeline...
+2025-11-25 00:14:01,297 - virtual_tryon - INFO - Found 3 valid input images
+2025-11-25 00:14:01,298 - virtual_tryon - INFO - 🔍 Analyzing 3 images with Gemini...
+2025-11-25 00:14:15,076 - virtual_tryon - INFO - ✅ Image analysis completed successfully
+2025-11-25 00:14:15,078 - virtual_tryon - INFO - Image analysis completed successfully
+2025-11-25 00:14:15,079 - virtual_tryon - INFO - 🎨 Generating front view (2K)...
+2025-11-25 00:14:15,080 - virtual_tryon - INFO - 🍌 Calling image generation API...
+2025-11-25 00:15:10,621 - virtual_tryon - INFO - ✅ Successfully generated front view!
+2025-11-25 00:15:10,622 - virtual_tryon - INFO - 💾 Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\generated_front.png
+2025-11-25 00:15:10,623 - virtual_tryon - INFO - Successfully generated front view
+2025-11-25 00:15:12,625 - virtual_tryon - INFO - 🎨 Generating back view (2K)...
+2025-11-25 00:15:12,626 - virtual_tryon - INFO - 🍌 Calling image generation API...
+2025-11-25 00:15:30,944 - virtual_tryon - INFO - ✅ Successfully generated back view!
+2025-11-25 00:15:30,945 - virtual_tryon - INFO - 💾 Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\generated_back.png
+2025-11-25 00:15:30,946 - virtual_tryon - INFO - Successfully generated back view
+2025-11-25 00:15:32,947 - virtual_tryon - INFO - 🎨 Generating side view (2K)...
+2025-11-25 00:15:32,947 - virtual_tryon - INFO - 🍌 Calling image generation API...
+2025-11-25 00:16:12,494 - virtual_tryon - INFO - ✅ Successfully generated side view!
+2025-11-25 00:16:12,494 - virtual_tryon - INFO - 💾 Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\generated_side.png
+2025-11-25 00:16:12,496 - virtual_tryon - INFO - Successfully generated side view
+2025-11-25 00:16:14,497 - virtual_tryon - INFO - 🎨 Generating close-up view (2K)...
+2025-11-25 00:16:14,497 - virtual_tryon - INFO - 🍌 Calling image generation API...
+2025-11-25 00:16:48,207 - virtual_tryon - INFO - ✅ Successfully generated close-up view!
+2025-11-25 00:16:48,208 - virtual_tryon - INFO - 💾 Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\generated_close_up.png
+2025-11-25 00:16:48,209 - virtual_tryon - INFO - Successfully generated close-up view
+2025-11-25 00:16:48,210 - virtual_tryon - INFO - Successfully generated 4 images
+2025-11-25 00:18:44,509 - virtual_tryon - INFO - ✅ Gemini API configured successfully
+2025-11-25 00:18:44,510 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 00:18:44,510 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 00:18:44,511 - virtual_tryon - INFO - Starting virtual try-on pipeline...
+2025-11-25 00:18:44,529 - virtual_tryon - INFO - Found 3 valid input images
+2025-11-25 00:18:44,530 - virtual_tryon - INFO - 🔍 Analyzing 3 images with Gemini...
+2025-11-25 00:18:55,799 - virtual_tryon - INFO - ✅ Image analysis completed successfully
+2025-11-25 00:18:55,804 - virtual_tryon - INFO - Image analysis completed successfully
+2025-11-25 00:18:55,805 - virtual_tryon - INFO - 🎨 Generating front view (2K)...
+2025-11-25 00:18:55,806 - virtual_tryon - INFO - 🍌 Calling image generation API...
+2025-11-25 00:20:15,395 - virtual_tryon - INFO - ✅ Successfully generated front view!
+2025-11-25 00:20:15,395 - virtual_tryon - INFO - 💾 Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\generated_front.png
+2025-11-25 00:20:15,396 - virtual_tryon - INFO - Successfully generated front view
+2025-11-25 00:20:17,397 - virtual_tryon - INFO - 🎨 Generating back view (2K)...
+2025-11-25 00:20:17,398 - virtual_tryon - INFO - 🍌 Calling image generation API...
+2025-11-25 00:21:04,327 - virtual_tryon - INFO - ✅ Gemini API configured successfully
+2025-11-25 00:21:04,328 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 00:21:04,328 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 00:21:04,328 - virtual_tryon - INFO - Starting virtual try-on pipeline...
+2025-11-25 00:21:04,348 - virtual_tryon - INFO - Found 3 valid input images
+2025-11-25 00:21:04,349 - virtual_tryon - ERROR - Virtual try-on pipeline failed: 'GeminiService' object has no attribute 'analyze_images'
+2025-11-25 00:22:30,025 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 00:22:30,027 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 00:22:30,028 - virtual_tryon - INFO - Starting virtual try-on pipeline...
+2025-11-25 00:22:30,090 - virtual_tryon - INFO - Using back.jpg as model
+2025-11-25 00:22:30,091 - virtual_tryon - INFO - Using close_up.jpg as garment
+2025-11-25 00:22:30,092 - virtual_tryon - INFO - Found 2 valid input images
+2025-11-25 00:22:30,093 - virtual_tryon - INFO - 👕 Generating virtual try-on - front view (2K)...
+2025-11-25 00:22:30,147 - virtual_tryon - INFO - 🎨 Generating virtual try-on...
+2025-11-25 00:23:08,410 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 00:23:08,411 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 00:23:08,411 - virtual_tryon - INFO - Starting virtual try-on pipeline...
+2025-11-25 00:23:08,431 - virtual_tryon - INFO - Using back.jpg as model
+2025-11-25 00:23:08,432 - virtual_tryon - INFO - Using close_up.jpg as garment
+2025-11-25 00:23:08,432 - virtual_tryon - INFO - Found 2 valid input images
+2025-11-25 00:23:08,432 - virtual_tryon - INFO - 👕 Generating virtual try-on - front view (2K)...
+2025-11-25 00:23:08,454 - virtual_tryon - INFO - 🎨 Generating virtual try-on...
+2025-11-25 00:23:27,137 - virtual_tryon - INFO - ✅ Virtual try-on successful! Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\tryon_front.png
+2025-11-25 00:23:27,139 - virtual_tryon - INFO - ✅ Generated front view
+2025-11-25 00:23:29,141 - virtual_tryon - INFO - 👕 Generating virtual try-on - back view (2K)...
+2025-11-25 00:23:29,184 - virtual_tryon - INFO - 🎨 Generating virtual try-on...
+2025-11-25 00:24:04,742 - virtual_tryon - INFO - ✅ Virtual try-on successful! Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\tryon_back.png
+2025-11-25 00:24:04,744 - virtual_tryon - INFO - ✅ Generated back view
+2025-11-25 00:24:06,745 - virtual_tryon - INFO - 👕 Generating virtual try-on - side view (2K)...
+2025-11-25 00:24:06,763 - virtual_tryon - INFO - 🎨 Generating virtual try-on...
+2025-11-25 10:42:03,687 - virtual_tryon - ERROR - ❌ Virtual try-on failed: 504 Deadline Exceeded
+2025-11-25 10:42:03,820 - virtual_tryon - INFO - ✅ Created placeholder for side view
+2025-11-25 10:42:03,839 - virtual_tryon - INFO - ✅ Generated side view
+2025-11-25 10:42:05,888 - virtual_tryon - INFO - 👕 Generating virtual try-on - close-up view (2K)...
+2025-11-25 10:42:05,907 - virtual_tryon - INFO - 🎨 Generating virtual try-on...
+2025-11-25 10:42:41,798 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 10:42:41,798 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 10:42:41,799 - virtual_tryon - INFO - Starting virtual try-on pipeline...
+2025-11-25 10:42:41,818 - virtual_tryon - INFO - Using back.jpg as model
+2025-11-25 10:42:41,818 - virtual_tryon - INFO - Using close_up.jpg as garment
+2025-11-25 10:42:41,818 - virtual_tryon - INFO - Found 2 valid input images
+2025-11-25 10:42:41,819 - virtual_tryon - INFO - 👕 Generating virtual try-on - front view (2K)...
+2025-11-25 10:42:41,829 - virtual_tryon - INFO - 🎨 Generating virtual try-on...
+2025-11-25 10:43:00,266 - virtual_tryon - INFO - ✅ Virtual try-on successful! Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\tryon_front.png
+2025-11-25 10:43:00,267 - virtual_tryon - INFO - ✅ Generated front view
+2025-11-25 10:43:02,268 - virtual_tryon - INFO - 👕 Generating virtual try-on - back view (2K)...
+2025-11-25 10:43:02,277 - virtual_tryon - INFO - 🎨 Generating virtual try-on...
+2025-11-25 10:43:30,267 - virtual_tryon - INFO - ✅ Virtual try-on successful! Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\tryon_back.png
+2025-11-25 10:43:30,269 - virtual_tryon - INFO - ✅ Generated back view
+2025-11-25 10:43:32,270 - virtual_tryon - INFO - 👕 Generating virtual try-on - side view (2K)...
+2025-11-25 10:43:32,281 - virtual_tryon - INFO - 🎨 Generating virtual try-on...
+2025-11-25 10:44:21,872 - virtual_tryon - INFO - ✅ Virtual try-on successful! Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\tryon_side.png
+2025-11-25 10:44:21,873 - virtual_tryon - INFO - ✅ Generated side view
+2025-11-25 10:44:23,874 - virtual_tryon - INFO - 👕 Generating virtual try-on - close-up view (2K)...
+2025-11-25 10:44:23,900 - virtual_tryon - INFO - 🎨 Generating virtual try-on...
+2025-11-25 10:45:11,466 - virtual_tryon - INFO - ✅ Virtual try-on successful! Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\tryon_close_up.png
+2025-11-25 10:45:11,467 - virtual_tryon - INFO - ✅ Generated close-up view
+2025-11-25 10:45:11,468 - virtual_tryon - INFO - Successfully generated 4 images
+2025-11-25 10:52:50,008 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 10:52:50,009 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 10:52:50,009 - virtual_tryon - INFO - Starting virtual try-on pipeline...
+2025-11-25 10:52:50,072 - virtual_tryon - INFO - Using back.jpg as model
+2025-11-25 10:52:50,072 - virtual_tryon - INFO - Using close_up.jpg as garment
+2025-11-25 10:52:50,072 - virtual_tryon - INFO - Found 2 valid input images
+2025-11-25 10:52:50,073 - virtual_tryon - INFO - 👕 Generating virtual try-on - front view (2K)...
+2025-11-25 10:52:50,086 - virtual_tryon - INFO - 🎨 Generating virtual try-on...
+2025-11-25 10:58:07,226 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 10:58:07,227 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 10:58:07,227 - virtual_tryon - INFO - Starting garment-to-model pipeline...
+2025-11-25 10:58:07,238 - virtual_tryon - INFO - Using back.jpg as garment
+2025-11-25 10:58:07,238 - virtual_tryon - INFO - Found garment image: back.jpg
+2025-11-25 10:58:07,238 - virtual_tryon - INFO - 👗 Generating model wearing garment - front view (2K)...
+2025-11-25 10:58:07,242 - virtual_tryon - INFO - 🎨 Generating model with garment...
+2025-11-25 10:58:49,376 - virtual_tryon - INFO - ✅ Model generation successful! Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\model_front.png
+2025-11-25 10:58:49,376 - virtual_tryon - INFO - ✅ Generated front view
+2025-11-25 10:58:51,377 - virtual_tryon - INFO - 👗 Generating model wearing garment - back view (2K)...
+2025-11-25 10:58:51,386 - virtual_tryon - INFO - 🎨 Generating model with garment...
+2025-11-25 10:59:18,303 - virtual_tryon - INFO - ✅ Model generation successful! Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\model_back.png
+2025-11-25 10:59:18,305 - virtual_tryon - INFO - ✅ Generated back view
+2025-11-25 10:59:20,306 - virtual_tryon - INFO - 👗 Generating model wearing garment - side view (2K)...
+2025-11-25 10:59:20,318 - virtual_tryon - INFO - 🎨 Generating model with garment...
+2025-11-25 11:00:47,815 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:00:47,815 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:00:47,816 - virtual_tryon - INFO - Starting multi-garment pipeline...
+2025-11-25 11:00:47,832 - virtual_tryon - INFO - Found 3 garment images:
+2025-11-25 11:00:47,833 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 11:00:47,833 - virtual_tryon - INFO -   - close_up.jpg
+2025-11-25 11:00:47,833 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 11:00:47,834 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 11:00:47,834 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 11:00:47,834 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 11:00:47,834 - virtual_tryon - INFO - Matched close_up.jpg to close-up view
+2025-11-25 11:00:47,835 - virtual_tryon - INFO - Using front.jpg for front view
+2025-11-25 11:00:47,835 - virtual_tryon - INFO - 👗 Generating model wearing garment - front view (2K)...
+2025-11-25 11:00:47,842 - virtual_tryon - INFO - 🎨 Generating model with garment...
+2025-11-25 11:01:27,541 - virtual_tryon - INFO - ✅ Model generation successful! Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\model_front.png
+2025-11-25 11:01:27,544 - virtual_tryon - INFO - ✅ Generated front view
+2025-11-25 11:01:29,546 - virtual_tryon - INFO - Using back.jpg for back view
+2025-11-25 11:01:29,547 - virtual_tryon - INFO - 👗 Generating model wearing garment - back view (2K)...
+2025-11-25 11:01:29,568 - virtual_tryon - INFO - 🎨 Generating model with garment...
+2025-11-25 11:01:46,009 - virtual_tryon - INFO - ✅ Model generation successful! Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\model_back.png
+2025-11-25 11:01:46,010 - virtual_tryon - INFO - ✅ Generated back view
+2025-11-25 11:01:48,011 - virtual_tryon - INFO - Using back.jpg for side view
+2025-11-25 11:01:48,012 - virtual_tryon - INFO - 👗 Generating model wearing garment - side view (2K)...
+2025-11-25 11:01:48,032 - virtual_tryon - INFO - 🎨 Generating model with garment...
+2025-11-25 11:02:14,096 - virtual_tryon - INFO - ✅ Model generation successful! Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\model_side.png
+2025-11-25 11:02:14,099 - virtual_tryon - INFO - ✅ Generated side view
+2025-11-25 11:02:16,101 - virtual_tryon - INFO - Using close_up.jpg for close-up view
+2025-11-25 11:02:16,102 - virtual_tryon - INFO - 👗 Generating model wearing garment - close-up view (2K)...
+2025-11-25 11:02:16,133 - virtual_tryon - INFO - 🎨 Generating model with garment...
+2025-11-25 11:02:43,037 - virtual_tryon - INFO - ✅ Model generation successful! Saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\model_close_up.png
+2025-11-25 11:02:43,040 - virtual_tryon - INFO - ✅ Generated close-up view
+2025-11-25 11:02:43,041 - virtual_tryon - INFO - Successfully generated 4 images
+2025-11-25 11:08:37,230 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:08:37,231 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:08:37,232 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:08:37,273 - virtual_tryon - INFO - Found 3 garment images:
+2025-11-25 11:08:37,274 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 11:08:37,274 - virtual_tryon - INFO -   - close_up.jpg
+2025-11-25 11:08:37,275 - virtual_tryon - INFO -   - front.jpg.jpg
+2025-11-25 11:08:37,276 - virtual_tryon - INFO - Matched front.jpg.jpg to front view
+2025-11-25 11:08:37,276 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 11:08:37,277 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 11:08:37,278 - virtual_tryon - INFO - Matched close_up.jpg to close-up view
+2025-11-25 11:08:37,279 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:08:37,294 - virtual_tryon - INFO - Prepared front.jpg.jpg for front
+2025-11-25 11:08:37,309 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 11:08:37,323 - virtual_tryon - INFO - Prepared back.jpg for back
+2025-11-25 11:08:37,345 - virtual_tryon - INFO - Prepared close_up.jpg for close-up
+2025-11-25 11:08:37,346 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:08:37,346 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:08:37,347 - virtual_tryon - ERROR - ❌ Composite generation failed: name 'genai' is not defined
+2025-11-25 11:09:21,269 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:09:21,270 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:09:21,270 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:09:21,300 - virtual_tryon - INFO - Found 3 garment images:
+2025-11-25 11:09:21,301 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 11:09:21,301 - virtual_tryon - INFO -   - close_up.jpg
+2025-11-25 11:09:21,303 - virtual_tryon - INFO -   - front.jpg.jpg
+2025-11-25 11:09:21,304 - virtual_tryon - INFO - Matched front.jpg.jpg to front view
+2025-11-25 11:09:21,305 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 11:09:21,306 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 11:09:21,307 - virtual_tryon - INFO - Matched close_up.jpg to close-up view
+2025-11-25 11:09:21,307 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:09:21,323 - virtual_tryon - INFO - Prepared front.jpg.jpg for front
+2025-11-25 11:09:21,337 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 11:09:21,348 - virtual_tryon - INFO - Prepared back.jpg for back
+2025-11-25 11:09:21,364 - virtual_tryon - INFO - Prepared close_up.jpg for close-up
+2025-11-25 11:09:21,365 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:09:21,366 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:10:37,220 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\outputs\composite_all_views.png
+2025-11-25 11:10:37,222 - virtual_tryon - INFO - ✅ Successfully generated composite image!
+2025-11-25 11:13:00,244 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:13:00,244 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:13:00,245 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:16:27,286 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:16:27,287 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:16:27,287 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:16:27,287 - virtual_tryon - INFO - Found subdirectory with images: 27
+2025-11-25 11:16:27,288 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:16:27,288 - virtual_tryon - INFO - Processing directory: 27
+2025-11-25 11:16:27,288 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:16:27,289 - virtual_tryon - INFO - Found 9 garment images:
+2025-11-25 11:16:27,289 - virtual_tryon - INFO -   - 27-light yellow.jpg
+2025-11-25 11:16:27,289 - virtual_tryon - INFO -   - 303A8977.jpg
+2025-11-25 11:16:27,289 - virtual_tryon - INFO -   - 303A8978.jpg
+2025-11-25 11:16:27,289 - virtual_tryon - INFO -   - 303A8979.jpg
+2025-11-25 11:16:27,289 - virtual_tryon - INFO -   - 303A8980.jpg
+2025-11-25 11:16:27,290 - virtual_tryon - INFO -   - 303A8981.jpg
+2025-11-25 11:16:27,290 - virtual_tryon - INFO -   - 303A8982.jpg
+2025-11-25 11:16:27,290 - virtual_tryon - INFO -   - 303A8983.jpg
+2025-11-25 11:16:27,290 - virtual_tryon - INFO -   - 303A8990.jpg
+2025-11-25 11:16:27,290 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output
+2025-11-25 11:16:27,291 - virtual_tryon - INFO - Using default 27-light yellow.jpg for front view
+2025-11-25 11:16:27,291 - virtual_tryon - INFO - Using default 27-light yellow.jpg for back view
+2025-11-25 11:16:27,291 - virtual_tryon - INFO - Using default 27-light yellow.jpg for side view
+2025-11-25 11:16:27,291 - virtual_tryon - INFO - Using default 27-light yellow.jpg for close-up view
+2025-11-25 11:16:27,291 - virtual_tryon - ERROR - Virtual try-on pipeline failed: VirtualTryOnApp._generate_composite_image() takes 2 positional arguments but 3 were given
+2025-11-25 11:19:16,572 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:19:16,572 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:19:16,572 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:19:16,573 - virtual_tryon - INFO - Found subdirectory with images: 27
+2025-11-25 11:19:16,573 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:19:16,573 - virtual_tryon - INFO - Processing directory: 27
+2025-11-25 11:19:16,573 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:19:16,574 - virtual_tryon - INFO - Found 9 garment images:
+2025-11-25 11:19:16,574 - virtual_tryon - INFO -   - 27-light yellow.jpg
+2025-11-25 11:19:16,575 - virtual_tryon - INFO -   - 303A8977.jpg
+2025-11-25 11:19:16,575 - virtual_tryon - INFO -   - 303A8978.jpg
+2025-11-25 11:19:16,575 - virtual_tryon - INFO -   - 303A8979.jpg
+2025-11-25 11:19:16,575 - virtual_tryon - INFO -   - 303A8980.jpg
+2025-11-25 11:19:16,575 - virtual_tryon - INFO -   - 303A8981.jpg
+2025-11-25 11:19:16,575 - virtual_tryon - INFO -   - 303A8982.jpg
+2025-11-25 11:19:16,576 - virtual_tryon - INFO -   - 303A8983.jpg
+2025-11-25 11:19:16,576 - virtual_tryon - INFO -   - 303A8990.jpg
+2025-11-25 11:19:16,576 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output
+2025-11-25 11:19:16,576 - virtual_tryon - INFO - Using default 27-light yellow.jpg for front view
+2025-11-25 11:19:16,576 - virtual_tryon - INFO - Using default 27-light yellow.jpg for back view
+2025-11-25 11:19:16,577 - virtual_tryon - INFO - Using default 27-light yellow.jpg for side view
+2025-11-25 11:19:16,577 - virtual_tryon - INFO - Using default 27-light yellow.jpg for close-up view
+2025-11-25 11:19:16,577 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:19:16,594 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for front
+2025-11-25 11:19:16,601 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for side
+2025-11-25 11:19:16,606 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for back
+2025-11-25 11:19:16,613 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for close-up
+2025-11-25 11:19:16,613 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:19:16,613 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:20:15,941 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output\composite_all_views.png
+2025-11-25 11:20:15,945 - virtual_tryon - INFO - ✅ Generated composite for 27
+2025-11-25 11:20:15,946 - virtual_tryon - INFO - 
+✅ Successfully generated 1 composite images!
+2025-11-25 11:25:29,298 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:25:29,298 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:25:29,299 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:25:29,299 - virtual_tryon - INFO - Found subdirectory with images: 27
+2025-11-25 11:25:29,299 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:25:29,300 - virtual_tryon - INFO - Processing directory: 27
+2025-11-25 11:25:29,300 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:25:29,300 - virtual_tryon - INFO - Found 9 garment images:
+2025-11-25 11:25:29,301 - virtual_tryon - INFO -   - 27-light yellow.jpg
+2025-11-25 11:25:29,301 - virtual_tryon - INFO -   - 303A8977.jpg
+2025-11-25 11:25:29,301 - virtual_tryon - INFO -   - 303A8978.jpg
+2025-11-25 11:25:29,301 - virtual_tryon - INFO -   - 303A8979.jpg
+2025-11-25 11:25:29,301 - virtual_tryon - INFO -   - 303A8980.jpg
+2025-11-25 11:25:29,301 - virtual_tryon - INFO -   - 303A8981.jpg
+2025-11-25 11:25:29,302 - virtual_tryon - INFO -   - 303A8982.jpg
+2025-11-25 11:25:29,302 - virtual_tryon - INFO -   - 303A8983.jpg
+2025-11-25 11:25:29,302 - virtual_tryon - INFO -   - 303A8990.jpg
+2025-11-25 11:25:29,302 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output
+2025-11-25 11:25:29,302 - virtual_tryon - INFO - Using default 27-light yellow.jpg for front view
+2025-11-25 11:25:29,302 - virtual_tryon - INFO - Using default 27-light yellow.jpg for back view
+2025-11-25 11:25:29,303 - virtual_tryon - INFO - Using default 27-light yellow.jpg for side view
+2025-11-25 11:25:29,303 - virtual_tryon - INFO - Using default 27-light yellow.jpg for close-up view
+2025-11-25 11:25:29,303 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:25:29,319 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for front
+2025-11-25 11:25:29,325 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for side
+2025-11-25 11:25:29,331 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for back
+2025-11-25 11:25:29,337 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for close-up
+2025-11-25 11:25:29,338 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:25:29,338 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:26:10,869 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output\composite_all_views.png
+2025-11-25 11:26:10,874 - virtual_tryon - INFO - ✅ Generated composite for 27
+2025-11-25 11:26:10,874 - virtual_tryon - INFO - 
+✅ Successfully generated 1 composite images!
+2025-11-25 11:28:06,564 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:28:06,565 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:28:06,565 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:28:06,566 - virtual_tryon - INFO - Found subdirectory with images: 27
+2025-11-25 11:28:06,566 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:28:06,566 - virtual_tryon - INFO - Processing directory: 27
+2025-11-25 11:28:06,566 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:28:06,567 - virtual_tryon - INFO - Found 9 garment images:
+2025-11-25 11:28:06,567 - virtual_tryon - INFO -   - 27-light yellow.jpg
+2025-11-25 11:28:06,567 - virtual_tryon - INFO -   - 303A8977.jpg
+2025-11-25 11:28:06,567 - virtual_tryon - INFO -   - 303A8978.jpg
+2025-11-25 11:28:06,567 - virtual_tryon - INFO -   - 303A8979.jpg
+2025-11-25 11:28:06,568 - virtual_tryon - INFO -   - 303A8980.jpg
+2025-11-25 11:28:06,568 - virtual_tryon - INFO -   - 303A8981.jpg
+2025-11-25 11:28:06,568 - virtual_tryon - INFO -   - 303A8982.jpg
+2025-11-25 11:28:06,568 - virtual_tryon - INFO -   - 303A8983.jpg
+2025-11-25 11:28:06,568 - virtual_tryon - INFO -   - 303A8990.jpg
+2025-11-25 11:28:06,568 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output
+2025-11-25 11:28:06,568 - virtual_tryon - INFO - Using default 27-light yellow.jpg for front view
+2025-11-25 11:28:06,569 - virtual_tryon - INFO - Using default 27-light yellow.jpg for back view
+2025-11-25 11:28:06,569 - virtual_tryon - INFO - Using default 27-light yellow.jpg for side view
+2025-11-25 11:28:06,569 - virtual_tryon - INFO - Using default 27-light yellow.jpg for close-up view
+2025-11-25 11:28:06,569 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:28:06,585 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for front
+2025-11-25 11:28:06,591 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for side
+2025-11-25 11:28:06,597 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for back
+2025-11-25 11:28:06,603 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for close-up
+2025-11-25 11:28:06,604 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:28:06,604 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:28:51,309 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output\composite_all_views.png
+2025-11-25 11:28:51,313 - virtual_tryon - INFO - ✅ Generated composite for 27
+2025-11-25 11:28:51,313 - virtual_tryon - INFO - 
+✅ Successfully generated 1 composite images!
+2025-11-25 11:31:02,899 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:31:02,899 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:31:02,899 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:31:02,900 - virtual_tryon - INFO - Found subdirectory with images: 27
+2025-11-25 11:31:02,900 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:31:02,900 - virtual_tryon - INFO - Processing directory: 27
+2025-11-25 11:31:02,901 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:31:02,901 - virtual_tryon - INFO - Found 9 garment images:
+2025-11-25 11:31:02,901 - virtual_tryon - INFO -   - 27-light yellow.jpg
+2025-11-25 11:31:02,902 - virtual_tryon - INFO -   - 303A8977.jpg
+2025-11-25 11:31:02,902 - virtual_tryon - INFO -   - 303A8978.jpg
+2025-11-25 11:31:02,902 - virtual_tryon - INFO -   - 303A8979.jpg
+2025-11-25 11:31:02,902 - virtual_tryon - INFO -   - 303A8980.jpg
+2025-11-25 11:31:02,902 - virtual_tryon - INFO -   - 303A8981.jpg
+2025-11-25 11:31:02,902 - virtual_tryon - INFO -   - 303A8982.jpg
+2025-11-25 11:31:02,902 - virtual_tryon - INFO -   - 303A8983.jpg
+2025-11-25 11:31:02,902 - virtual_tryon - INFO -   - 303A8990.jpg
+2025-11-25 11:31:02,903 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output
+2025-11-25 11:31:02,903 - virtual_tryon - INFO - Using default 27-light yellow.jpg for front view
+2025-11-25 11:31:02,903 - virtual_tryon - INFO - Using default 27-light yellow.jpg for back view
+2025-11-25 11:31:02,903 - virtual_tryon - INFO - Using default 27-light yellow.jpg for side view
+2025-11-25 11:31:02,903 - virtual_tryon - INFO - Using default 27-light yellow.jpg for close-up view
+2025-11-25 11:31:02,904 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:31:02,920 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for front
+2025-11-25 11:31:02,926 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for side
+2025-11-25 11:31:02,932 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for back
+2025-11-25 11:31:02,938 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for close-up
+2025-11-25 11:31:02,938 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:31:02,939 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:31:40,482 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output\composite_all_views.png
+2025-11-25 11:31:40,486 - virtual_tryon - INFO - ✅ Generated composite for 27
+2025-11-25 11:31:40,486 - virtual_tryon - INFO - 
+✅ Successfully generated 1 composite images!
+2025-11-25 11:33:34,539 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:33:34,540 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:33:34,540 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:33:34,540 - virtual_tryon - INFO - Found subdirectory with images: 27
+2025-11-25 11:33:34,541 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:33:34,541 - virtual_tryon - INFO - Processing directory: 27
+2025-11-25 11:33:34,541 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:33:34,542 - virtual_tryon - INFO - Found 9 garment images:
+2025-11-25 11:33:34,542 - virtual_tryon - INFO -   - 27-light yellow.jpg
+2025-11-25 11:33:34,542 - virtual_tryon - INFO -   - 303A8977.jpg
+2025-11-25 11:33:34,542 - virtual_tryon - INFO -   - 303A8978.jpg
+2025-11-25 11:33:34,543 - virtual_tryon - INFO -   - 303A8979.jpg
+2025-11-25 11:33:34,543 - virtual_tryon - INFO -   - 303A8980.jpg
+2025-11-25 11:33:34,543 - virtual_tryon - INFO -   - 303A8981.jpg
+2025-11-25 11:33:34,543 - virtual_tryon - INFO -   - 303A8982.jpg
+2025-11-25 11:33:34,543 - virtual_tryon - INFO -   - 303A8983.jpg
+2025-11-25 11:33:34,544 - virtual_tryon - INFO -   - 303A8990.jpg
+2025-11-25 11:33:34,544 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output
+2025-11-25 11:33:34,544 - virtual_tryon - INFO - Using default 27-light yellow.jpg for front view
+2025-11-25 11:33:34,544 - virtual_tryon - INFO - Using default 27-light yellow.jpg for back view
+2025-11-25 11:33:34,544 - virtual_tryon - INFO - Using default 27-light yellow.jpg for side view
+2025-11-25 11:33:34,545 - virtual_tryon - INFO - Using default 27-light yellow.jpg for close-up view
+2025-11-25 11:33:34,545 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:33:34,562 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for front
+2025-11-25 11:33:34,568 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for side
+2025-11-25 11:33:34,576 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for back
+2025-11-25 11:33:34,609 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for close-up
+2025-11-25 11:33:34,609 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:33:34,610 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:34:08,064 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output\composite_all_views.png
+2025-11-25 11:34:08,069 - virtual_tryon - INFO - ✅ Generated composite for 27
+2025-11-25 11:34:08,069 - virtual_tryon - INFO - 
+✅ Successfully generated 1 composite images!
+2025-11-25 11:36:11,662 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:36:11,662 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:36:11,662 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:36:11,663 - virtual_tryon - INFO - Found subdirectory with images: 27
+2025-11-25 11:36:11,663 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:36:11,663 - virtual_tryon - INFO - Processing directory: 27
+2025-11-25 11:36:11,663 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:36:11,664 - virtual_tryon - INFO - Found 9 garment images:
+2025-11-25 11:36:11,664 - virtual_tryon - INFO -   - 27-light yellow.jpg
+2025-11-25 11:36:11,665 - virtual_tryon - INFO -   - 303A8977.jpg
+2025-11-25 11:36:11,665 - virtual_tryon - INFO -   - 303A8978.jpg
+2025-11-25 11:36:11,665 - virtual_tryon - INFO -   - 303A8979.jpg
+2025-11-25 11:36:11,665 - virtual_tryon - INFO -   - 303A8980.jpg
+2025-11-25 11:36:11,665 - virtual_tryon - INFO -   - 303A8981.jpg
+2025-11-25 11:36:11,665 - virtual_tryon - INFO -   - 303A8982.jpg
+2025-11-25 11:36:11,666 - virtual_tryon - INFO -   - 303A8983.jpg
+2025-11-25 11:36:11,666 - virtual_tryon - INFO -   - 303A8990.jpg
+2025-11-25 11:36:11,666 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output
+2025-11-25 11:36:11,666 - virtual_tryon - INFO - Using default 27-light yellow.jpg for front view
+2025-11-25 11:36:11,667 - virtual_tryon - INFO - Using default 27-light yellow.jpg for back view
+2025-11-25 11:36:11,667 - virtual_tryon - INFO - Using default 27-light yellow.jpg for side view
+2025-11-25 11:36:11,667 - virtual_tryon - INFO - Using default 27-light yellow.jpg for close-up view
+2025-11-25 11:36:11,667 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:36:11,713 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for front
+2025-11-25 11:36:11,720 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for side
+2025-11-25 11:36:11,727 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for back
+2025-11-25 11:36:11,733 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for close-up
+2025-11-25 11:36:11,733 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:36:11,733 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:37:02,458 - virtual_tryon - ERROR - ❌ Composite generation failed: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-11-25 11:37:02,459 - virtual_tryon - WARNING - ⚠️ Failed to generate composite for 27
+2025-11-25 11:39:10,812 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:39:10,812 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:39:10,812 - virtual_tryon - INFO - Starting 4x1 composite generation (generate separately + stitch)...
+2025-11-25 11:39:10,813 - virtual_tryon - INFO - Found subdirectory with images: 27
+2025-11-25 11:39:10,813 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:39:10,813 - virtual_tryon - INFO - Processing directory: 27
+2025-11-25 11:39:10,814 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:39:10,814 - virtual_tryon - INFO - Found 9 garment images
+2025-11-25 11:39:10,814 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output
+2025-11-25 11:39:10,815 - virtual_tryon - INFO - 🎨 Generating 4 separate views...
+2025-11-25 11:39:10,815 - virtual_tryon - INFO - Generating front view...
+2025-11-25 11:39:36,129 - virtual_tryon - INFO - ✅ Generated front view
+2025-11-25 11:39:38,130 - virtual_tryon - INFO - Generating side view...
+2025-11-25 11:39:58,251 - virtual_tryon - INFO - ✅ Generated side view
+2025-11-25 11:40:00,252 - virtual_tryon - INFO - Generating back view...
+2025-11-25 11:40:19,370 - virtual_tryon - INFO - ✅ Generated back view
+2025-11-25 11:40:21,371 - virtual_tryon - INFO - Generating closeup view...
+2025-11-25 11:40:40,097 - virtual_tryon - INFO - ✅ Generated closeup view
+2025-11-25 11:40:40,098 - virtual_tryon - INFO - 🔧 Stitching views into 4x1 horizontal composite...
+2025-11-25 11:40:40,608 - virtual_tryon - INFO - ✅ Composite saved: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output\composite_4x1.png
+2025-11-25 11:40:40,609 - virtual_tryon - INFO - 📐 Composite size: 4096x1024
+2025-11-25 11:40:40,611 - virtual_tryon - INFO - ✅ Generated composite for 27
+2025-11-25 11:40:40,611 - virtual_tryon - INFO - 
+✅ Successfully generated 1 composite images!
+2025-11-25 11:41:35,274 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:41:35,274 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:41:35,274 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:42:04,620 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:42:04,620 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:42:04,621 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:42:14,738 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:42:14,738 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:42:14,739 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:43:23,369 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:43:23,369 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:43:23,370 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:43:23,370 - virtual_tryon - INFO - Found subdirectory with images: 27
+2025-11-25 11:43:23,370 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:43:23,371 - virtual_tryon - INFO - Processing directory: 27
+2025-11-25 11:43:23,371 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:43:23,371 - virtual_tryon - INFO - Found 9 garment images:
+2025-11-25 11:43:23,372 - virtual_tryon - INFO -   - 27-light yellow.jpg
+2025-11-25 11:43:23,372 - virtual_tryon - INFO -   - 303A8977.jpg
+2025-11-25 11:43:23,372 - virtual_tryon - INFO -   - 303A8978.jpg
+2025-11-25 11:43:23,372 - virtual_tryon - INFO -   - 303A8979.jpg
+2025-11-25 11:43:23,372 - virtual_tryon - INFO -   - 303A8980.jpg
+2025-11-25 11:43:23,372 - virtual_tryon - INFO -   - 303A8981.jpg
+2025-11-25 11:43:23,373 - virtual_tryon - INFO -   - 303A8982.jpg
+2025-11-25 11:43:23,373 - virtual_tryon - INFO -   - 303A8983.jpg
+2025-11-25 11:43:23,373 - virtual_tryon - INFO -   - 303A8990.jpg
+2025-11-25 11:43:23,373 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output
+2025-11-25 11:43:23,373 - virtual_tryon - INFO - Using default 27-light yellow.jpg for front view
+2025-11-25 11:43:23,373 - virtual_tryon - INFO - Using default 27-light yellow.jpg for back view
+2025-11-25 11:43:23,374 - virtual_tryon - INFO - Using default 27-light yellow.jpg for side view
+2025-11-25 11:43:23,374 - virtual_tryon - INFO - Using default 27-light yellow.jpg for close-up view
+2025-11-25 11:43:23,374 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:43:23,391 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for front
+2025-11-25 11:43:23,396 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for side
+2025-11-25 11:43:23,403 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for back
+2025-11-25 11:43:23,409 - virtual_tryon - INFO - Prepared 27-light yellow.jpg for close-up
+2025-11-25 11:43:23,410 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:43:23,410 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:44:10,544 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\27\output\composite_all_views.png
+2025-11-25 11:44:10,547 - virtual_tryon - INFO - ✅ Generated composite for 27
+2025-11-25 11:44:10,547 - virtual_tryon - INFO - 
+✅ Successfully generated 1 composite images!
+2025-11-25 11:49:44,353 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:49:44,353 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:49:44,353 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:49:44,354 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 11:49:44,354 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 11:49:44,354 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 11:49:44,355 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:49:44,355 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 11:49:44,355 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:49:44,355 - virtual_tryon - INFO - Found 4 garment images:
+2025-11-25 11:49:44,355 - virtual_tryon - INFO -   - 1.jpg
+2025-11-25 11:49:44,355 - virtual_tryon - INFO -   - 2.jpg
+2025-11-25 11:49:44,356 - virtual_tryon - INFO -   - 3.jpg
+2025-11-25 11:49:44,356 - virtual_tryon - INFO -   - 4.jpg
+2025-11-25 11:49:44,358 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 11:49:44,358 - virtual_tryon - INFO - Using default 1.jpg for front view
+2025-11-25 11:49:44,359 - virtual_tryon - INFO - Using default 1.jpg for back view
+2025-11-25 11:49:44,359 - virtual_tryon - INFO - Using default 1.jpg for side view
+2025-11-25 11:49:44,359 - virtual_tryon - INFO - Using default 1.jpg for close-up view
+2025-11-25 11:49:44,359 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:49:44,383 - virtual_tryon - INFO - Prepared 1.jpg for front
+2025-11-25 11:49:44,390 - virtual_tryon - INFO - Prepared 1.jpg for side
+2025-11-25 11:49:44,397 - virtual_tryon - INFO - Prepared 1.jpg for back
+2025-11-25 11:49:44,403 - virtual_tryon - INFO - Prepared 1.jpg for close-up
+2025-11-25 11:49:44,403 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:49:44,404 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:50:24,204 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 11:50:24,209 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 11:50:24,210 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:50:24,211 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 11:50:24,212 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:50:24,216 - virtual_tryon - INFO - Found 5 garment images:
+2025-11-25 11:50:24,216 - virtual_tryon - INFO -   - O1CN01EytV6u1oN9GxeKygz_!!2615215212-0-cib.jpg
+2025-11-25 11:50:24,218 - virtual_tryon - INFO -   - O1CN01Jn65nE1oN9IcnGQpn_!!2615215212-0-cib.jpg
+2025-11-25 11:50:24,219 - virtual_tryon - INFO -   - O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg
+2025-11-25 11:50:24,220 - virtual_tryon - INFO -   - O1CN01psJS8m1oN9GlO9buz_!!2615215212-0-cib.jpg
+2025-11-25 11:50:24,221 - virtual_tryon - INFO -   - O1CN01TYK0tJ1oN9GkMSLPH_!!2615215212-0-cib.jpg
+2025-11-25 11:50:24,223 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 11:50:24,224 - virtual_tryon - INFO - Using default O1CN01EytV6u1oN9GxeKygz_!!2615215212-0-cib.jpg for front view
+2025-11-25 11:50:24,225 - virtual_tryon - INFO - Using default O1CN01EytV6u1oN9GxeKygz_!!2615215212-0-cib.jpg for back view
+2025-11-25 11:50:24,226 - virtual_tryon - INFO - Using default O1CN01EytV6u1oN9GxeKygz_!!2615215212-0-cib.jpg for side view
+2025-11-25 11:50:24,226 - virtual_tryon - INFO - Using default O1CN01EytV6u1oN9GxeKygz_!!2615215212-0-cib.jpg for close-up view
+2025-11-25 11:50:24,227 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:50:24,269 - virtual_tryon - INFO - Prepared O1CN01EytV6u1oN9GxeKygz_!!2615215212-0-cib.jpg for front
+2025-11-25 11:50:24,281 - virtual_tryon - INFO - Prepared O1CN01EytV6u1oN9GxeKygz_!!2615215212-0-cib.jpg for side
+2025-11-25 11:50:24,320 - virtual_tryon - INFO - Prepared O1CN01EytV6u1oN9GxeKygz_!!2615215212-0-cib.jpg for back
+2025-11-25 11:50:24,341 - virtual_tryon - INFO - Prepared O1CN01EytV6u1oN9GxeKygz_!!2615215212-0-cib.jpg for close-up
+2025-11-25 11:50:24,365 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:50:24,377 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:51:36,393 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 11:51:36,396 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-25 11:51:36,397 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:51:36,397 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 11:51:36,398 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:51:36,400 - virtual_tryon - INFO - Found 5 garment images:
+2025-11-25 11:51:36,400 - virtual_tryon - INFO -   - O1CN01dGDFGq1oN9GjFLoJr_!!2615215212-0-cib.jpg
+2025-11-25 11:51:36,400 - virtual_tryon - INFO -   - O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg
+2025-11-25 11:51:36,401 - virtual_tryon - INFO -   - O1CN01qtBwrN1oN9GqiFhnS_!!2615215212-0-cib.jpg
+2025-11-25 11:51:36,401 - virtual_tryon - INFO -   - O1CN01sw9MuA1oN9GqxGCVH_!!2615215212-0-cib.jpg
+2025-11-25 11:51:36,402 - virtual_tryon - INFO -   - O1CN01YkD2Ew1oN9Gtp7FVj_!!2615215212-0-cib.jpg
+2025-11-25 11:51:36,403 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 11:51:36,403 - virtual_tryon - INFO - Using default O1CN01dGDFGq1oN9GjFLoJr_!!2615215212-0-cib.jpg for front view
+2025-11-25 11:51:36,404 - virtual_tryon - INFO - Using default O1CN01dGDFGq1oN9GjFLoJr_!!2615215212-0-cib.jpg for back view
+2025-11-25 11:51:36,404 - virtual_tryon - INFO - Using default O1CN01dGDFGq1oN9GjFLoJr_!!2615215212-0-cib.jpg for side view
+2025-11-25 11:51:36,405 - virtual_tryon - INFO - Using default O1CN01dGDFGq1oN9GjFLoJr_!!2615215212-0-cib.jpg for close-up view
+2025-11-25 11:51:36,405 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:51:36,441 - virtual_tryon - INFO - Prepared O1CN01dGDFGq1oN9GjFLoJr_!!2615215212-0-cib.jpg for front
+2025-11-25 11:51:36,460 - virtual_tryon - INFO - Prepared O1CN01dGDFGq1oN9GjFLoJr_!!2615215212-0-cib.jpg for side
+2025-11-25 11:51:36,475 - virtual_tryon - INFO - Prepared O1CN01dGDFGq1oN9GjFLoJr_!!2615215212-0-cib.jpg for back
+2025-11-25 11:51:36,491 - virtual_tryon - INFO - Prepared O1CN01dGDFGq1oN9GjFLoJr_!!2615215212-0-cib.jpg for close-up
+2025-11-25 11:51:36,491 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:51:36,492 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:52:46,842 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:52:46,843 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:52:46,843 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:52:46,843 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 11:52:46,844 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 11:52:46,844 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 11:52:46,844 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:52:46,844 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 11:52:46,845 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:52:46,845 - virtual_tryon - INFO - Found 4 garment images:
+2025-11-25 11:52:46,845 - virtual_tryon - INFO -   - 1.jpg
+2025-11-25 11:52:46,845 - virtual_tryon - INFO -   - 2.jpg
+2025-11-25 11:52:46,846 - virtual_tryon - INFO -   - 3.jpg
+2025-11-25 11:52:46,846 - virtual_tryon - INFO -   - 4.jpg
+2025-11-25 11:52:46,846 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 11:52:46,846 - virtual_tryon - INFO - Using default 1.jpg for front view
+2025-11-25 11:52:46,846 - virtual_tryon - INFO - Using default 1.jpg for back view
+2025-11-25 11:52:46,846 - virtual_tryon - INFO - Using default 1.jpg for side view
+2025-11-25 11:52:46,846 - virtual_tryon - INFO - Using default 1.jpg for close-up view
+2025-11-25 11:52:46,847 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:52:46,864 - virtual_tryon - INFO - Prepared 1.jpg for front
+2025-11-25 11:52:46,871 - virtual_tryon - INFO - Prepared 1.jpg for side
+2025-11-25 11:52:46,878 - virtual_tryon - INFO - Prepared 1.jpg for back
+2025-11-25 11:52:46,885 - virtual_tryon - INFO - Prepared 1.jpg for close-up
+2025-11-25 11:52:46,885 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:52:46,885 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:54:00,857 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:54:00,857 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:54:00,858 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:54:00,858 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 11:54:00,858 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 11:54:00,859 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 11:54:00,859 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:54:00,859 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 11:54:00,859 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:54:00,860 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 11:54:00,860 - virtual_tryon - INFO -   - 2.jpg
+2025-11-25 11:54:00,860 - virtual_tryon - INFO -   - 3.jpg
+2025-11-25 11:54:00,861 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 11:54:00,861 - virtual_tryon - INFO - Using default 2.jpg for front view
+2025-11-25 11:54:00,861 - virtual_tryon - INFO - Using default 2.jpg for back view
+2025-11-25 11:54:00,861 - virtual_tryon - INFO - Using default 2.jpg for side view
+2025-11-25 11:54:00,861 - virtual_tryon - INFO - Using default 2.jpg for close-up view
+2025-11-25 11:54:00,862 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:54:00,875 - virtual_tryon - INFO - Prepared 2.jpg for front
+2025-11-25 11:54:00,880 - virtual_tryon - INFO - Prepared 2.jpg for side
+2025-11-25 11:54:00,885 - virtual_tryon - INFO - Prepared 2.jpg for back
+2025-11-25 11:54:00,890 - virtual_tryon - INFO - Prepared 2.jpg for close-up
+2025-11-25 11:54:00,890 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:54:00,890 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:55:16,675 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 11:55:16,676 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 11:55:16,677 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:55:16,677 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 11:55:16,677 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:55:16,678 - virtual_tryon - INFO - Found 4 garment images:
+2025-11-25 11:55:16,678 - virtual_tryon - INFO -   - O1CN01Jn65nE1oN9IcnGQpn_!!2615215212-0-cib.jpg
+2025-11-25 11:55:16,678 - virtual_tryon - INFO -   - O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg
+2025-11-25 11:55:16,678 - virtual_tryon - INFO -   - O1CN01psJS8m1oN9GlO9buz_!!2615215212-0-cib.jpg
+2025-11-25 11:55:16,678 - virtual_tryon - INFO -   - O1CN01TYK0tJ1oN9GkMSLPH_!!2615215212-0-cib.jpg
+2025-11-25 11:55:16,679 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 11:55:16,679 - virtual_tryon - INFO - Using default O1CN01Jn65nE1oN9IcnGQpn_!!2615215212-0-cib.jpg for front view
+2025-11-25 11:55:16,679 - virtual_tryon - INFO - Using default O1CN01Jn65nE1oN9IcnGQpn_!!2615215212-0-cib.jpg for back view
+2025-11-25 11:55:16,679 - virtual_tryon - INFO - Using default O1CN01Jn65nE1oN9IcnGQpn_!!2615215212-0-cib.jpg for side view
+2025-11-25 11:55:16,680 - virtual_tryon - INFO - Using default O1CN01Jn65nE1oN9IcnGQpn_!!2615215212-0-cib.jpg for close-up view
+2025-11-25 11:55:16,680 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:55:16,685 - virtual_tryon - INFO - Prepared O1CN01Jn65nE1oN9IcnGQpn_!!2615215212-0-cib.jpg for front
+2025-11-25 11:55:16,690 - virtual_tryon - INFO - Prepared O1CN01Jn65nE1oN9IcnGQpn_!!2615215212-0-cib.jpg for side
+2025-11-25 11:55:16,695 - virtual_tryon - INFO - Prepared O1CN01Jn65nE1oN9IcnGQpn_!!2615215212-0-cib.jpg for back
+2025-11-25 11:55:16,702 - virtual_tryon - INFO - Prepared O1CN01Jn65nE1oN9IcnGQpn_!!2615215212-0-cib.jpg for close-up
+2025-11-25 11:55:16,702 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:55:16,702 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:55:50,950 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 11:55:50,952 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-25 11:55:50,952 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:55:50,953 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 11:55:50,953 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:55:50,954 - virtual_tryon - INFO - Found 3 garment images:
+2025-11-25 11:55:50,954 - virtual_tryon - INFO -   - O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg
+2025-11-25 11:55:50,954 - virtual_tryon - INFO -   - O1CN01qtBwrN1oN9GqiFhnS_!!2615215212-0-cib.jpg
+2025-11-25 11:55:50,954 - virtual_tryon - INFO -   - O1CN01YkD2Ew1oN9Gtp7FVj_!!2615215212-0-cib.jpg
+2025-11-25 11:55:50,955 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 11:55:50,955 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for front view
+2025-11-25 11:55:50,955 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for back view
+2025-11-25 11:55:50,956 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for side view
+2025-11-25 11:55:50,956 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for close-up view
+2025-11-25 11:55:50,956 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:55:50,969 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for front
+2025-11-25 11:55:50,975 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for side
+2025-11-25 11:55:50,979 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for back
+2025-11-25 11:55:50,984 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for close-up
+2025-11-25 11:55:50,984 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:55:50,984 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:57:08,866 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-25 11:57:08,867 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-25 11:57:08,868 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-25 11:59:05,518 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 11:59:05,518 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 11:59:05,518 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 11:59:05,519 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 11:59:05,519 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 11:59:05,519 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 11:59:05,520 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:59:05,520 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 11:59:05,520 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:59:05,520 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 11:59:05,520 - virtual_tryon - INFO -   - 2.jpg
+2025-11-25 11:59:05,521 - virtual_tryon - INFO -   - 3.jpg
+2025-11-25 11:59:05,521 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 11:59:05,521 - virtual_tryon - INFO - Using default 2.jpg for front view
+2025-11-25 11:59:05,521 - virtual_tryon - INFO - Using default 2.jpg for back view
+2025-11-25 11:59:05,521 - virtual_tryon - INFO - Using default 2.jpg for side view
+2025-11-25 11:59:05,521 - virtual_tryon - INFO - Using default 2.jpg for close-up view
+2025-11-25 11:59:05,521 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:59:05,534 - virtual_tryon - INFO - Prepared 2.jpg for front
+2025-11-25 11:59:05,539 - virtual_tryon - INFO - Prepared 2.jpg for side
+2025-11-25 11:59:05,544 - virtual_tryon - INFO - Prepared 2.jpg for back
+2025-11-25 11:59:05,548 - virtual_tryon - INFO - Prepared 2.jpg for close-up
+2025-11-25 11:59:05,549 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:59:05,549 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 11:59:40,880 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 11:59:40,883 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 11:59:40,883 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 11:59:40,884 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 11:59:40,884 - virtual_tryon - INFO - ============================================================
+2025-11-25 11:59:40,885 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 11:59:40,886 - virtual_tryon - INFO -   - O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg
+2025-11-25 11:59:40,886 - virtual_tryon - INFO -   - O1CN01TYK0tJ1oN9GkMSLPH_!!2615215212-0-cib.jpg
+2025-11-25 11:59:40,887 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 11:59:40,888 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for front view
+2025-11-25 11:59:40,888 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for back view
+2025-11-25 11:59:40,889 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for side view
+2025-11-25 11:59:40,889 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for close-up view
+2025-11-25 11:59:40,889 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 11:59:40,895 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for front
+2025-11-25 11:59:40,901 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for side
+2025-11-25 11:59:40,906 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for back
+2025-11-25 11:59:40,912 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for close-up
+2025-11-25 11:59:40,912 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 11:59:40,912 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:00:00,873 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 12:00:00,876 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-25 12:00:00,876 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:00:00,877 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 12:00:00,877 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:00:00,878 - virtual_tryon - INFO - Found 3 garment images:
+2025-11-25 12:00:00,879 - virtual_tryon - INFO -   - O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg
+2025-11-25 12:00:00,879 - virtual_tryon - INFO -   - O1CN01qtBwrN1oN9GqiFhnS_!!2615215212-0-cib.jpg
+2025-11-25 12:00:00,880 - virtual_tryon - INFO -   - O1CN01YkD2Ew1oN9Gtp7FVj_!!2615215212-0-cib.jpg
+2025-11-25 12:00:00,880 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 12:00:00,881 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for front view
+2025-11-25 12:00:00,881 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for back view
+2025-11-25 12:00:00,881 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for side view
+2025-11-25 12:00:00,882 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for close-up view
+2025-11-25 12:00:00,882 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:00:00,890 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for front
+2025-11-25 12:00:00,898 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for side
+2025-11-25 12:00:00,904 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for back
+2025-11-25 12:00:00,910 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for close-up
+2025-11-25 12:00:00,910 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 12:00:00,910 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:00:55,772 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-25 12:00:55,775 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-25 12:00:55,776 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-25 12:07:32,339 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 12:07:32,339 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 12:07:32,339 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 12:07:32,339 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 12:07:32,340 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 12:07:32,340 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 12:07:32,340 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:07:32,340 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 12:07:32,340 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:07:32,341 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:07:32,341 - virtual_tryon - INFO -   - 2.jpg
+2025-11-25 12:07:32,341 - virtual_tryon - INFO -   - 3.jpg
+2025-11-25 12:07:32,341 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 12:07:32,341 - virtual_tryon - INFO - Using default 2.jpg for front view
+2025-11-25 12:07:32,341 - virtual_tryon - INFO - Using default 2.jpg for back view
+2025-11-25 12:07:32,342 - virtual_tryon - INFO - Using default 2.jpg for side view
+2025-11-25 12:07:32,342 - virtual_tryon - INFO - Using default 2.jpg for close-up view
+2025-11-25 12:07:32,342 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:07:32,355 - virtual_tryon - INFO - Prepared 2.jpg for front
+2025-11-25 12:07:32,360 - virtual_tryon - INFO - Prepared 2.jpg for side
+2025-11-25 12:07:32,364 - virtual_tryon - INFO - Prepared 2.jpg for back
+2025-11-25 12:07:32,369 - virtual_tryon - INFO - Prepared 2.jpg for close-up
+2025-11-25 12:07:32,370 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 12:07:32,370 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:08:10,278 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 12:08:10,281 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 12:08:10,282 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:08:10,283 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 12:08:10,283 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:08:10,284 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:08:10,285 - virtual_tryon - INFO -   - O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg
+2025-11-25 12:08:10,285 - virtual_tryon - INFO -   - O1CN01TYK0tJ1oN9GkMSLPH_!!2615215212-0-cib.jpg
+2025-11-25 12:08:10,286 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 12:08:10,287 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for front view
+2025-11-25 12:08:10,287 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for back view
+2025-11-25 12:08:10,287 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for side view
+2025-11-25 12:08:10,288 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for close-up view
+2025-11-25 12:08:10,288 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:08:10,295 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for front
+2025-11-25 12:08:10,301 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for side
+2025-11-25 12:08:10,307 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for back
+2025-11-25 12:08:10,313 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for close-up
+2025-11-25 12:08:10,313 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 12:08:10,314 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:08:51,629 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 12:08:51,630 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-25 12:08:51,631 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:08:51,631 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 12:08:51,631 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:08:51,632 - virtual_tryon - INFO - Found 3 garment images:
+2025-11-25 12:08:51,632 - virtual_tryon - INFO -   - O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg
+2025-11-25 12:08:51,632 - virtual_tryon - INFO -   - O1CN01qtBwrN1oN9GqiFhnS_!!2615215212-0-cib.jpg
+2025-11-25 12:08:51,632 - virtual_tryon - INFO -   - O1CN01YkD2Ew1oN9Gtp7FVj_!!2615215212-0-cib.jpg
+2025-11-25 12:08:51,633 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 12:08:51,633 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for front view
+2025-11-25 12:08:51,633 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for back view
+2025-11-25 12:08:51,633 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for side view
+2025-11-25 12:08:51,633 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for close-up view
+2025-11-25 12:08:51,633 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:08:51,638 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for front
+2025-11-25 12:08:51,644 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for side
+2025-11-25 12:08:51,648 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for back
+2025-11-25 12:08:51,653 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for close-up
+2025-11-25 12:08:51,653 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 12:08:51,654 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:09:48,947 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-25 12:09:48,948 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-25 12:09:48,949 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-25 12:18:47,071 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 12:18:47,071 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 12:18:47,071 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 12:18:47,071 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 12:18:47,072 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 12:18:47,072 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 12:18:47,072 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:18:47,072 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 12:18:47,072 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:18:47,073 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:18:47,073 - virtual_tryon - INFO -   - 2.jpg
+2025-11-25 12:18:47,073 - virtual_tryon - INFO -   - 3.jpg
+2025-11-25 12:18:47,073 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 12:18:47,074 - virtual_tryon - INFO - Using default 2.jpg for front view
+2025-11-25 12:18:47,074 - virtual_tryon - INFO - Using default 2.jpg for back view
+2025-11-25 12:18:47,074 - virtual_tryon - INFO - Using default 2.jpg for side view
+2025-11-25 12:18:47,074 - virtual_tryon - INFO - Using default 2.jpg for close-up view
+2025-11-25 12:18:47,074 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:18:47,088 - virtual_tryon - INFO - Prepared 2.jpg for front
+2025-11-25 12:18:47,093 - virtual_tryon - INFO - Prepared 2.jpg for side
+2025-11-25 12:18:47,098 - virtual_tryon - INFO - Prepared 2.jpg for back
+2025-11-25 12:18:47,103 - virtual_tryon - INFO - Prepared 2.jpg for close-up
+2025-11-25 12:18:47,103 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 12:18:47,103 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:19:17,864 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 12:19:17,866 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 12:19:17,866 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:19:17,867 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 12:19:17,867 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:19:17,868 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:19:17,868 - virtual_tryon - INFO -   - O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg
+2025-11-25 12:19:17,868 - virtual_tryon - INFO -   - O1CN01TYK0tJ1oN9GkMSLPH_!!2615215212-0-cib.jpg
+2025-11-25 12:19:17,869 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 12:19:17,869 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for front view
+2025-11-25 12:19:17,869 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for back view
+2025-11-25 12:19:17,870 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for side view
+2025-11-25 12:19:17,870 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for close-up view
+2025-11-25 12:19:17,870 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:19:17,877 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for front
+2025-11-25 12:19:17,884 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for side
+2025-11-25 12:19:17,890 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for back
+2025-11-25 12:19:17,898 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for close-up
+2025-11-25 12:19:17,899 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 12:19:17,899 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:19:42,077 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 12:19:42,079 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-25 12:19:42,079 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:19:42,080 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 12:19:42,080 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:19:42,081 - virtual_tryon - INFO - Found 3 garment images:
+2025-11-25 12:19:42,081 - virtual_tryon - INFO -   - O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg
+2025-11-25 12:19:42,081 - virtual_tryon - INFO -   - O1CN01qtBwrN1oN9GqiFhnS_!!2615215212-0-cib.jpg
+2025-11-25 12:19:42,082 - virtual_tryon - INFO -   - O1CN01YkD2Ew1oN9Gtp7FVj_!!2615215212-0-cib.jpg
+2025-11-25 12:19:42,082 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 12:19:42,082 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for front view
+2025-11-25 12:19:42,083 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for back view
+2025-11-25 12:19:42,083 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for side view
+2025-11-25 12:19:42,083 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for close-up view
+2025-11-25 12:19:42,083 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:19:42,088 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for front
+2025-11-25 12:19:42,094 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for side
+2025-11-25 12:19:42,099 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for back
+2025-11-25 12:19:42,106 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for close-up
+2025-11-25 12:19:42,106 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 12:19:42,106 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:20:07,331 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-25 12:20:07,333 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-25 12:20:07,334 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-25 12:22:20,066 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 12:22:20,066 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 12:22:20,066 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 12:22:20,067 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 12:22:20,067 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 12:22:20,068 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 12:22:20,068 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:22:20,068 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 12:22:20,068 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:22:20,069 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:22:20,069 - virtual_tryon - INFO -   - 2.jpg
+2025-11-25 12:22:20,069 - virtual_tryon - INFO -   - 3.jpg
+2025-11-25 12:22:20,070 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 12:22:20,070 - virtual_tryon - INFO - Using default 2.jpg for front view
+2025-11-25 12:22:20,070 - virtual_tryon - INFO - Using default 2.jpg for back view
+2025-11-25 12:22:20,070 - virtual_tryon - INFO - Using default 2.jpg for side view
+2025-11-25 12:22:20,070 - virtual_tryon - INFO - Using default 2.jpg for close-up view
+2025-11-25 12:22:20,070 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:22:20,084 - virtual_tryon - INFO - Prepared 2.jpg for front
+2025-11-25 12:22:20,089 - virtual_tryon - INFO - Prepared 2.jpg for side
+2025-11-25 12:22:20,095 - virtual_tryon - INFO - Prepared 2.jpg for back
+2025-11-25 12:22:20,100 - virtual_tryon - INFO - Prepared 2.jpg for close-up
+2025-11-25 12:22:20,100 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 12:22:20,100 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:23:20,261 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 12:23:20,265 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 12:23:20,265 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:23:20,266 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 12:23:20,266 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:23:20,267 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:23:20,268 - virtual_tryon - INFO -   - O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg
+2025-11-25 12:23:20,268 - virtual_tryon - INFO -   - O1CN01TYK0tJ1oN9GkMSLPH_!!2615215212-0-cib.jpg
+2025-11-25 12:23:20,269 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 12:23:20,269 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for front view
+2025-11-25 12:23:20,270 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for back view
+2025-11-25 12:23:20,270 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for side view
+2025-11-25 12:23:20,271 - virtual_tryon - INFO - Using default O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for close-up view
+2025-11-25 12:23:20,271 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:23:20,277 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for front
+2025-11-25 12:23:20,282 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for side
+2025-11-25 12:23:20,287 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for back
+2025-11-25 12:23:20,292 - virtual_tryon - INFO - Prepared O1CN01N3VfPQ1oN9GkfhXAO_!!2615215212-0-cib.jpg for close-up
+2025-11-25 12:23:20,293 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 12:23:20,293 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:24:06,203 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 12:24:06,205 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-25 12:24:06,206 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:24:06,206 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 12:24:06,206 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:24:06,207 - virtual_tryon - INFO - Found 3 garment images:
+2025-11-25 12:24:06,208 - virtual_tryon - INFO -   - O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg
+2025-11-25 12:24:06,208 - virtual_tryon - INFO -   - O1CN01qtBwrN1oN9GqiFhnS_!!2615215212-0-cib.jpg
+2025-11-25 12:24:06,209 - virtual_tryon - INFO -   - O1CN01YkD2Ew1oN9Gtp7FVj_!!2615215212-0-cib.jpg
+2025-11-25 12:24:06,209 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 12:24:06,210 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for front view
+2025-11-25 12:24:06,210 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for back view
+2025-11-25 12:24:06,211 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for side view
+2025-11-25 12:24:06,211 - virtual_tryon - INFO - Using default O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for close-up view
+2025-11-25 12:24:06,211 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:24:06,217 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for front
+2025-11-25 12:24:06,222 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for side
+2025-11-25 12:24:06,227 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for back
+2025-11-25 12:24:06,231 - virtual_tryon - INFO - Prepared O1CN01eQCirv1oN9GrhoJQw_!!2615215212-0-cib.jpg for close-up
+2025-11-25 12:24:06,231 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 12:24:06,232 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:25:09,246 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-25 12:25:09,248 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-25 12:25:09,248 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-25 12:37:18,852 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 12:37:18,852 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 12:37:18,853 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 12:37:18,853 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 12:37:18,853 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 12:37:18,854 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 12:37:18,854 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:37:18,854 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 12:37:18,854 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:37:18,855 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:37:18,855 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 12:37:18,855 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 12:37:18,855 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 12:37:18,855 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 12:37:18,855 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 12:37:18,856 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 12:37:18,856 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 12:37:18,856 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:37:18,870 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 12:37:18,875 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 12:37:18,880 - virtual_tryon - INFO - Prepared back.jpg for back
+2025-11-25 12:37:18,884 - virtual_tryon - INFO - Prepared back.jpg for close-up
+2025-11-25 12:37:18,884 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 12:37:18,884 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:38:26,617 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 12:38:26,621 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 12:38:26,622 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:38:26,623 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 12:38:26,624 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:38:26,625 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:38:26,626 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 12:38:26,627 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 12:38:26,628 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 12:38:26,629 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 12:38:26,629 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 12:38:26,630 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 12:38:26,631 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 12:38:26,632 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:38:26,649 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 12:38:26,661 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 12:38:26,670 - virtual_tryon - INFO - Prepared back.jpg for back
+2025-11-25 12:38:26,678 - virtual_tryon - INFO - Prepared back.jpg for close-up
+2025-11-25 12:38:26,678 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 12:38:26,678 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:39:04,101 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 12:39:04,102 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-25 12:39:04,103 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:39:04,103 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 12:39:04,103 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:39:04,104 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:39:04,104 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 12:39:04,104 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 12:39:04,104 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 12:39:04,105 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 12:39:04,105 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 12:39:04,105 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 12:39:04,105 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 12:39:04,106 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:39:04,111 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 12:39:04,116 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 12:39:04,121 - virtual_tryon - INFO - Prepared back.jpg for back
+2025-11-25 12:39:04,125 - virtual_tryon - INFO - Prepared back.jpg for close-up
+2025-11-25 12:39:04,126 - virtual_tryon - INFO - 🎨 Calling API to generate composite image...
+2025-11-25 12:39:04,126 - virtual_tryon - INFO - ⏱️ This may take 30-60 seconds...
+2025-11-25 12:40:06,313 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-25 12:40:06,315 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-25 12:40:06,316 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-25 12:44:28,517 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 12:44:28,517 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 12:44:28,518 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 12:44:28,518 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 12:44:28,519 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 12:44:28,519 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 12:44:28,520 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:44:28,520 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 12:44:28,520 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:44:28,521 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:44:28,521 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 12:44:28,521 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 12:44:28,521 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 12:44:28,522 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 12:44:28,522 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 12:44:28,522 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 12:44:28,522 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 12:44:28,523 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:44:28,537 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 12:44:28,542 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 12:44:28,542 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 12:44:29,461 - virtual_tryon - ERROR - ❌ Composite generation failed: Unknown field for GenerationConfig: seed
+2025-11-25 12:44:29,462 - virtual_tryon - WARNING - ⚠️ Failed to generate composite for 1341
+2025-11-25 12:44:29,462 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:44:29,462 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 12:44:29,462 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:44:29,463 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:44:29,463 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 12:44:29,463 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 12:44:29,463 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 12:44:29,464 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 12:44:29,464 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 12:44:29,464 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 12:44:29,464 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 12:44:29,464 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:44:29,469 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 12:44:29,475 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 12:44:29,475 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 12:44:30,407 - virtual_tryon - ERROR - ❌ Composite generation failed: Unknown field for GenerationConfig: seed
+2025-11-25 12:44:30,408 - virtual_tryon - WARNING - ⚠️ Failed to generate composite for 1544
+2025-11-25 12:44:30,408 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:44:30,408 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 12:44:30,409 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:44:30,409 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:44:30,410 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 12:44:30,410 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 12:44:30,410 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 12:44:30,411 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 12:44:30,411 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 12:44:30,411 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 12:44:30,411 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 12:44:30,412 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:44:30,416 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 12:44:30,420 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 12:44:30,420 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 12:44:31,234 - virtual_tryon - ERROR - ❌ Composite generation failed: Unknown field for GenerationConfig: seed
+2025-11-25 12:44:31,234 - virtual_tryon - WARNING - ⚠️ Failed to generate composite for 1546
+2025-11-25 12:47:04,216 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 12:47:04,216 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 12:47:04,217 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 12:47:04,217 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 12:47:04,217 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 12:47:04,218 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 12:47:04,218 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:47:04,218 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 12:47:04,218 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:47:04,219 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:47:04,219 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 12:47:04,219 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 12:47:04,219 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 12:47:04,219 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 12:47:04,219 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 12:47:04,219 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 12:47:04,220 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 12:47:04,220 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:47:04,232 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 12:47:04,236 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 12:47:04,237 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 12:47:05,110 - virtual_tryon - ERROR - ❌ Composite generation failed: Unknown field for GenerationConfig: seed
+2025-11-25 12:47:05,111 - virtual_tryon - WARNING - ⚠️ Failed to generate composite for 1341
+2025-11-25 12:47:05,111 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:47:05,112 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 12:47:05,112 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:47:05,112 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:47:05,113 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 12:47:05,113 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 12:47:05,113 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 12:47:05,114 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 12:47:05,114 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 12:47:05,114 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 12:47:05,114 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 12:47:05,114 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:47:05,120 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 12:47:05,125 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 12:47:05,125 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 12:47:06,055 - virtual_tryon - ERROR - ❌ Composite generation failed: Unknown field for GenerationConfig: seed
+2025-11-25 12:47:06,055 - virtual_tryon - WARNING - ⚠️ Failed to generate composite for 1544
+2025-11-25 12:47:06,056 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:47:06,056 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 12:47:06,056 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:47:06,057 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:47:06,057 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 12:47:06,057 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 12:47:06,058 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 12:47:06,058 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 12:47:06,058 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 12:47:06,059 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 12:47:06,059 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 12:47:06,059 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:47:06,063 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 12:47:06,067 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 12:47:06,068 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 12:47:06,886 - virtual_tryon - ERROR - ❌ Composite generation failed: Unknown field for GenerationConfig: seed
+2025-11-25 12:47:06,887 - virtual_tryon - WARNING - ⚠️ Failed to generate composite for 1546
+2025-11-25 12:48:07,925 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 12:48:07,925 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 12:48:07,926 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 12:48:07,926 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 12:48:07,926 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 12:48:07,927 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 12:48:07,927 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:48:07,927 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 12:48:07,927 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:48:07,928 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:48:07,928 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 12:48:07,928 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 12:48:07,928 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 12:48:07,928 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 12:48:07,928 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 12:48:07,928 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 12:48:07,929 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 12:48:07,929 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:48:07,941 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 12:48:07,946 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 12:48:07,946 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 12:48:39,010 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 12:48:39,013 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 12:48:39,014 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:48:39,015 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 12:48:39,015 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:48:39,017 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:48:39,017 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 12:48:39,018 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 12:48:39,019 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 12:48:39,019 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 12:48:39,020 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 12:48:39,020 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 12:48:39,021 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 12:48:39,021 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:48:39,036 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 12:48:39,048 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 12:48:39,049 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 12:49:34,268 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 12:49:34,269 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-25 12:49:34,269 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 12:49:34,270 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 12:49:34,270 - virtual_tryon - INFO - ============================================================
+2025-11-25 12:49:34,271 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 12:49:34,271 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 12:49:34,272 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 12:49:34,272 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 12:49:34,272 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 12:49:34,273 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 12:49:34,273 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 12:49:34,273 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 12:49:34,273 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 12:49:34,279 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 12:49:34,283 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 12:49:34,283 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 12:50:24,466 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-25 12:50:24,468 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-25 12:50:24,469 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-25 13:02:30,036 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 13:02:30,036 - virtual_tryon - INFO - 💰 Pricing: $0.134 per 1K/2K image, $0.24 per 4K image
+2025-11-25 13:02:30,036 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 13:02:30,037 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 13:02:30,037 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 13:02:30,037 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 13:02:30,037 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 13:02:30,037 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 13:02:30,038 - virtual_tryon - INFO - ============================================================
+2025-11-25 13:02:30,038 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 13:02:30,038 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 13:02:30,038 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 13:02:30,038 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 13:02:30,039 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 13:02:30,039 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 13:02:30,039 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 13:02:30,039 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 13:02:30,039 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 13:02:30,054 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 13:02:30,059 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 13:02:30,060 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 13:02:59,674 - virtual_tryon - INFO - 🔍 Upscaling image: composite_all_views.png -> composite_all_views_upscaled.png (strength=high)
+2025-11-25 13:03:44,495 - virtual_tryon - INFO - ✅ Upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views_upscaled.png
+2025-11-25 13:03:44,499 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 13:03:44,501 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 13:03:44,501 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 13:03:44,502 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 13:03:44,502 - virtual_tryon - INFO - ============================================================
+2025-11-25 13:03:44,503 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 13:03:44,504 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 13:03:44,504 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 13:03:44,505 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 13:03:44,505 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 13:03:44,505 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 13:03:44,505 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 13:03:44,505 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 13:03:44,506 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 13:03:44,512 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 13:03:44,518 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 13:03:44,518 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 13:04:27,174 - virtual_tryon - INFO - 🔍 Upscaling image: composite_all_views.png -> composite_all_views_upscaled.png (strength=high)
+2025-11-25 13:05:14,245 - virtual_tryon - INFO - ✅ Upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views_upscaled.png
+2025-11-25 13:05:14,252 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 13:05:14,256 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-25 13:05:14,257 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 13:05:14,258 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 13:05:14,259 - virtual_tryon - INFO - ============================================================
+2025-11-25 13:05:14,261 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 13:05:14,262 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 13:05:14,263 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 13:05:14,265 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 13:05:14,266 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 13:05:14,267 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 13:05:14,267 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 13:05:14,268 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 13:05:14,269 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 13:05:14,283 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 13:05:14,298 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 13:05:14,299 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 13:05:40,722 - virtual_tryon - INFO - 🔍 Upscaling image: composite_all_views.png -> composite_all_views_upscaled.png (strength=high)
+2025-11-25 13:05:57,498 - virtual_tryon - INFO - ✅ Upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views_upscaled.png
+2025-11-25 13:05:57,503 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-25 13:05:57,505 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-25 13:05:57,506 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-25 13:15:59,928 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 13:15:59,928 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 13:15:59,929 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 13:15:59,929 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 13:15:59,930 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 13:15:59,930 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 13:15:59,930 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 13:15:59,930 - virtual_tryon - INFO - ============================================================
+2025-11-25 13:15:59,930 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 13:15:59,931 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 13:15:59,931 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 13:15:59,931 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 13:15:59,931 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 13:15:59,931 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 13:15:59,931 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 13:15:59,932 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 13:15:59,932 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 13:15:59,944 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 13:15:59,949 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 13:15:59,949 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 13:17:01,241 - virtual_tryon - ERROR - Failed to resize image C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png: [Errno 2] No such file or directory: 'C:\\Users\\admin\\Desktop\\nanobanana_pro\\inputs\\1341\\output\\composite_all_views.png'
+2025-11-25 13:17:01,242 - virtual_tryon - ERROR - Failed to prepare image C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png: [Errno 2] No such file or directory: 'C:\\Users\\admin\\Desktop\\nanobanana_pro\\inputs\\1341\\output\\composite_all_views.png'
+2025-11-25 13:17:01,243 - virtual_tryon - ERROR - ❌ Failed to load image: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 13:17:01,247 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 13:17:01,249 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 13:17:01,250 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 13:17:01,250 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 13:17:01,251 - virtual_tryon - INFO - ============================================================
+2025-11-25 13:17:01,252 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 13:17:01,252 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 13:17:01,253 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 13:17:01,254 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 13:17:01,255 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 13:17:01,255 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 13:17:01,256 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 13:17:01,257 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 13:17:01,257 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 13:17:01,269 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 13:17:01,275 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 13:17:01,275 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 13:17:27,242 - virtual_tryon - ERROR - Failed to resize image C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png: [Errno 2] No such file or directory: 'C:\\Users\\admin\\Desktop\\nanobanana_pro\\inputs\\1544\\output\\composite_all_views.png'
+2025-11-25 13:17:27,243 - virtual_tryon - ERROR - Failed to prepare image C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png: [Errno 2] No such file or directory: 'C:\\Users\\admin\\Desktop\\nanobanana_pro\\inputs\\1544\\output\\composite_all_views.png'
+2025-11-25 13:17:27,243 - virtual_tryon - ERROR - ❌ Failed to load image: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 13:17:27,246 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 13:17:27,248 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-25 13:17:27,248 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 13:17:27,249 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 13:17:27,249 - virtual_tryon - INFO - ============================================================
+2025-11-25 13:17:27,250 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 13:17:27,251 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 13:17:27,251 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 13:17:27,252 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 13:17:27,252 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 13:17:27,253 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 13:17:27,253 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 13:17:27,254 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 13:17:27,254 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 13:17:27,262 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 13:17:27,272 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 13:17:27,272 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 13:17:53,662 - virtual_tryon - ERROR - Failed to resize image C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png: [Errno 2] No such file or directory: 'C:\\Users\\admin\\Desktop\\nanobanana_pro\\inputs\\1546\\output\\composite_all_views.png'
+2025-11-25 13:17:53,663 - virtual_tryon - ERROR - Failed to prepare image C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png: [Errno 2] No such file or directory: 'C:\\Users\\admin\\Desktop\\nanobanana_pro\\inputs\\1546\\output\\composite_all_views.png'
+2025-11-25 13:17:53,664 - virtual_tryon - ERROR - ❌ Failed to load image: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-25 13:17:53,667 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-25 13:17:53,669 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-25 13:17:53,670 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-25 13:19:11,060 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 13:19:11,060 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 13:19:11,060 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 13:19:11,061 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 13:19:11,061 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 13:19:11,061 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 13:19:11,061 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 13:19:11,062 - virtual_tryon - INFO - ============================================================
+2025-11-25 13:19:11,062 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 13:19:11,062 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 13:19:11,062 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 13:19:11,062 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 13:19:11,063 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 13:19:11,063 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 13:19:11,063 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 13:19:11,063 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 13:19:11,063 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 13:19:11,076 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 13:19:11,081 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 13:19:11,081 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 13:19:54,472 - virtual_tryon - ERROR - ❌ Composite generation failed: ImageGenerationService.upscale_image() got an unexpected keyword argument 'strength'
+2025-11-25 13:19:54,474 - virtual_tryon - WARNING - ⚠️ Failed to generate composite for 1341
+2025-11-25 13:19:54,475 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 13:19:54,476 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 13:19:54,476 - virtual_tryon - INFO - ============================================================
+2025-11-25 13:19:54,478 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 13:19:54,478 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 13:19:54,479 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 13:19:54,480 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 13:19:54,481 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 13:19:54,481 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 13:19:54,482 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 13:19:54,483 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 13:19:54,484 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 13:19:54,496 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 13:19:54,501 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 13:19:54,501 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 13:20:39,945 - virtual_tryon - ERROR - ❌ Composite generation failed: ImageGenerationService.upscale_image() got an unexpected keyword argument 'strength'
+2025-11-25 13:20:39,947 - virtual_tryon - WARNING - ⚠️ Failed to generate composite for 1544
+2025-11-25 13:20:39,948 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 13:20:39,949 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 13:20:39,949 - virtual_tryon - INFO - ============================================================
+2025-11-25 13:20:39,950 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 13:20:39,951 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 13:20:39,951 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 13:20:39,952 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 13:20:39,952 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 13:20:39,953 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 13:20:39,953 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 13:20:39,953 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 13:20:39,954 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 13:20:39,961 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 13:20:39,965 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 13:20:39,966 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 13:21:00,402 - virtual_tryon - ERROR - ❌ Composite generation failed: ImageGenerationService.upscale_image() got an unexpected keyword argument 'strength'
+2025-11-25 13:21:00,404 - virtual_tryon - WARNING - ⚠️ Failed to generate composite for 1546
+2025-11-25 15:29:45,519 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 15:29:45,520 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 15:29:45,520 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 15:29:45,521 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 15:29:45,521 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 15:29:45,521 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 15:29:45,522 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 15:29:45,522 - virtual_tryon - INFO - ============================================================
+2025-11-25 15:29:45,522 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 15:29:45,523 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 15:29:45,523 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 15:29:45,523 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 15:29:45,524 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 15:29:45,524 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 15:29:45,524 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 15:29:45,525 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 15:29:45,525 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 15:29:45,544 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 15:29:45,549 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 15:29:45,549 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 15:30:06,491 - virtual_tryon - INFO - 🔍 Upscaling composite_all_views.png from 1024x1024 to 2048x2048 using gemini-2.0-flash-image-zoom
+2025-11-25 15:30:07,746 - virtual_tryon - ERROR - ❌ Upscale request failed: 404 models/gemini-2.0-flash-image-zoom is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-25 15:30:07,758 - virtual_tryon - INFO - 🔍 Upscaling composite_all_views.png from 1024x1024 to 3072x3072 using gemini-2.0-flash-image-zoom
+2025-11-25 15:30:08,871 - virtual_tryon - ERROR - ❌ Upscale request failed: 404 models/gemini-2.0-flash-image-zoom is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-25 15:30:08,878 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 15:30:08,879 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 15:30:08,879 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 15:30:08,879 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 15:30:08,879 - virtual_tryon - INFO - ============================================================
+2025-11-25 15:30:08,880 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 15:30:08,880 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 15:30:08,881 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 15:30:08,881 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 15:30:08,881 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 15:30:08,882 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 15:30:08,882 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 15:30:08,882 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 15:30:08,882 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 15:30:08,888 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 15:30:08,895 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 15:30:08,895 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 15:34:46,541 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 15:34:46,541 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 15:34:46,541 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 15:34:46,542 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 15:34:46,542 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 15:34:46,542 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 15:34:46,543 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 15:34:46,543 - virtual_tryon - INFO - ============================================================
+2025-11-25 15:34:46,543 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 15:34:46,544 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 15:34:46,544 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 15:34:46,544 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 15:34:46,544 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 15:34:46,545 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 15:34:46,545 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 15:34:46,546 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 15:34:46,546 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 15:34:46,564 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 15:34:46,571 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 15:34:46,572 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 15:35:24,116 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 15:35:24,137 - virtual_tryon - INFO - 🔍 Upscaling composite_all_views.png from 1024x1024 to 3072x3072 using gemini-2.0-flash-image-zoom
+2025-11-25 15:35:25,333 - virtual_tryon - ERROR - ❌ Upscale request failed: 404 models/gemini-2.0-flash-image-zoom is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-25 15:35:25,333 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 15:35:25,334 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 15:35:25,334 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 15:35:25,334 - virtual_tryon - INFO - ============================================================
+2025-11-25 15:35:25,335 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 15:35:25,336 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 15:35:25,336 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 15:35:25,337 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 15:35:25,337 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 15:35:25,338 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 15:35:25,338 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 15:35:25,338 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 15:35:25,339 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 15:35:25,346 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 15:35:25,352 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 15:35:25,353 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 15:36:09,766 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 15:36:09,790 - virtual_tryon - INFO - 🔍 Upscaling composite_all_views.png from 1024x1024 to 3072x3072 using gemini-2.0-flash-image-zoom
+2025-11-25 15:36:11,124 - virtual_tryon - ERROR - ❌ Upscale request failed: 404 models/gemini-2.0-flash-image-zoom is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-25 15:36:11,125 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-25 15:36:11,125 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 15:36:11,126 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 15:36:11,126 - virtual_tryon - INFO - ============================================================
+2025-11-25 15:36:11,127 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 15:36:11,128 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 15:36:11,128 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 15:36:11,129 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 15:36:11,129 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 15:36:11,130 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 15:36:11,130 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 15:36:11,130 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 15:36:11,131 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 15:36:11,141 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 15:36:11,148 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 15:36:11,149 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 15:36:37,443 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-25 15:36:37,465 - virtual_tryon - INFO - 🔍 Upscaling composite_all_views.png from 1024x1024 to 3072x3072 using gemini-2.0-flash-image-zoom
+2025-11-25 15:36:38,755 - virtual_tryon - ERROR - ❌ Upscale request failed: 404 models/gemini-2.0-flash-image-zoom is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-25 15:36:38,756 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-25 15:36:38,756 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-25 15:40:31,986 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 15:40:31,987 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 15:40:31,988 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 15:40:31,988 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 15:40:31,988 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 15:40:31,989 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 15:40:31,989 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 15:40:31,989 - virtual_tryon - INFO - ============================================================
+2025-11-25 15:40:31,989 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 15:40:31,989 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 15:40:31,990 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 15:40:31,990 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 15:40:31,990 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 15:40:31,990 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 15:40:31,991 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 15:40:31,991 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 15:40:31,992 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 15:40:32,009 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 15:40:32,015 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 15:40:32,016 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 15:41:00,003 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 15:41:00,030 - virtual_tryon - INFO - 🔍 Enhancing then upscaling composite_all_views.png from 1024x1024 to 3072x3072
+2025-11-25 15:41:39,593 - virtual_tryon - INFO - ✅ Upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views_upscaled.png (3072x3072)
+2025-11-25 15:41:39,598 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 15:41:39,598 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 15:41:39,598 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 15:41:39,599 - virtual_tryon - INFO - ============================================================
+2025-11-25 15:41:39,600 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 15:41:39,600 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 15:41:39,600 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 15:41:39,601 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 15:41:39,601 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 15:41:39,601 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 15:41:39,601 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 15:41:39,602 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 15:41:39,602 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 15:41:39,608 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 15:41:39,614 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 15:41:39,614 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 15:42:44,058 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 15:42:44,083 - virtual_tryon - INFO - 🔍 Enhancing then upscaling composite_all_views.png from 1024x1024 to 3072x3072
+2025-11-25 15:43:02,348 - virtual_tryon - INFO - ✅ Upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views_upscaled.png (3072x3072)
+2025-11-25 15:43:02,354 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-25 15:43:02,354 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 15:43:02,355 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 15:43:02,355 - virtual_tryon - INFO - ============================================================
+2025-11-25 15:43:02,356 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 15:43:02,356 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 15:43:02,357 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 15:43:02,357 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 15:43:02,357 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 15:43:02,358 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 15:43:02,358 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 15:43:02,358 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 15:43:02,359 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 15:43:02,368 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 15:43:02,375 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 15:43:02,376 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 15:43:47,968 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-25 15:43:47,990 - virtual_tryon - INFO - 🔍 Enhancing then upscaling composite_all_views.png from 1024x1024 to 3072x3072
+2025-11-25 15:44:14,044 - virtual_tryon - INFO - ✅ Upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views_upscaled.png (3072x3072)
+2025-11-25 15:44:14,049 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-25 15:44:14,049 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-25 15:47:04,829 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-25 15:47:04,830 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-25 15:47:04,830 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-25 15:47:04,831 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-25 15:47:04,832 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-25 15:47:04,832 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 15:47:04,833 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-25 15:47:04,833 - virtual_tryon - INFO - ============================================================
+2025-11-25 15:47:04,834 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 15:47:04,834 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 15:47:04,834 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 15:47:04,835 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-25 15:47:04,836 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 15:47:04,836 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 15:47:04,837 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 15:47:04,837 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 15:47:04,837 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 15:47:04,858 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 15:47:04,864 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 15:47:04,864 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 15:47:46,635 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-25 15:47:46,659 - virtual_tryon - INFO - 🔍 Enhancing then upscaling composite_all_views.png from 1024x1024 to 4096x4096
+2025-11-25 15:48:09,619 - virtual_tryon - INFO - ✅ Upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views_upscaled.png (4096x4096)
+2025-11-25 15:48:09,626 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-25 15:48:09,627 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 15:48:09,627 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-25 15:48:09,628 - virtual_tryon - INFO - ============================================================
+2025-11-25 15:48:09,628 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 15:48:09,629 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 15:48:09,629 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 15:48:09,629 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-25 15:48:09,630 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 15:48:09,630 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 15:48:09,631 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 15:48:09,631 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 15:48:09,631 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 15:48:09,637 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 15:48:09,643 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 15:48:09,644 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 15:48:36,364 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-25 15:48:36,386 - virtual_tryon - INFO - 🔍 Enhancing then upscaling composite_all_views.png from 1024x1024 to 4096x4096
+2025-11-25 15:49:24,348 - virtual_tryon - INFO - ✅ Upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views_upscaled.png (4096x4096)
+2025-11-25 15:49:24,355 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-25 15:49:24,355 - virtual_tryon - INFO - 
+============================================================
+2025-11-25 15:49:24,356 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-25 15:49:24,356 - virtual_tryon - INFO - ============================================================
+2025-11-25 15:49:24,357 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-25 15:49:24,357 - virtual_tryon - INFO -   - back.jpg
+2025-11-25 15:49:24,358 - virtual_tryon - INFO -   - front.jpg
+2025-11-25 15:49:24,358 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-25 15:49:24,359 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-25 15:49:24,359 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-25 15:49:24,359 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-25 15:49:24,360 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-25 15:49:24,360 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-25 15:49:24,366 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-25 15:49:24,371 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-25 15:49:24,371 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-25 15:49:49,608 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-25 15:49:49,630 - virtual_tryon - INFO - 🔍 Enhancing then upscaling composite_all_views.png from 1024x1024 to 4096x4096
+2025-11-25 15:50:24,161 - virtual_tryon - INFO - ✅ Upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views_upscaled.png (4096x4096)
+2025-11-25 15:50:24,168 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-25 15:50:24,168 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-26 10:54:16,248 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-26 10:54:16,248 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-26 10:54:16,248 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-26 10:54:16,249 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-26 10:54:16,249 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-26 10:54:16,249 - virtual_tryon - INFO - 
+============================================================
+2025-11-26 10:54:16,250 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-26 10:54:16,250 - virtual_tryon - INFO - ============================================================
+2025-11-26 10:54:16,250 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-26 10:54:16,250 - virtual_tryon - INFO -   - back.jpg
+2025-11-26 10:54:16,251 - virtual_tryon - INFO -   - front.jpg
+2025-11-26 10:54:16,251 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-26 10:54:16,251 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-26 10:54:16,251 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-26 10:54:16,252 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-26 10:54:16,252 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-26 10:54:16,252 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-26 10:54:16,270 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-26 10:54:16,276 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-26 10:54:16,276 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-26 10:55:33,894 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-26 10:55:33,930 - virtual_tryon - INFO - 🔍 Enhancing then upscaling composite_all_views.png from 1024x1024 to 4096x4096
+2025-11-26 10:56:43,839 - virtual_tryon - INFO - ✅ Upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views_upscaled.png (4096x4096)
+2025-11-26 10:56:43,844 - virtual_tryon - INFO - ✂️ Cropping composite image into individual views...
+2025-11-26 10:56:43,856 - virtual_tryon - INFO - Composite image size: 4096x4096
+2025-11-26 10:56:44,389 - virtual_tryon - INFO - ✅ Saved front view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_front.png (1080x1440)
+2025-11-26 10:56:44,619 - virtual_tryon - INFO - ✅ Saved side view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_side.png (1080x1440)
+2025-11-26 10:56:44,855 - virtual_tryon - INFO - ✅ Saved back view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_back.png (1080x1440)
+2025-11-26 10:56:45,178 - virtual_tryon - INFO - ✅ Saved closeup view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_closeup.png (1080x1440)
+2025-11-26 10:56:45,179 - virtual_tryon - INFO - ✂️ Successfully cropped all 4 views!
+2025-11-26 10:56:45,186 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-26 10:56:45,186 - virtual_tryon - INFO - 
+============================================================
+2025-11-26 10:56:45,186 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-26 10:56:45,187 - virtual_tryon - INFO - ============================================================
+2025-11-26 10:56:45,187 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-26 10:56:45,187 - virtual_tryon - INFO -   - back.jpg
+2025-11-26 10:56:45,188 - virtual_tryon - INFO -   - front.jpg
+2025-11-26 10:56:45,188 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-26 10:56:45,188 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-26 10:56:45,189 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-26 10:56:45,189 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-26 10:56:45,189 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-26 10:56:45,189 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-26 10:56:45,194 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-26 10:56:45,201 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-26 10:56:45,201 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-26 10:58:06,476 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-26 10:58:06,507 - virtual_tryon - INFO - 🔍 Enhancing then upscaling composite_all_views.png from 1024x1024 to 4096x4096
+2025-11-26 10:59:27,120 - virtual_tryon - INFO - ✅ Upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views_upscaled.png (4096x4096)
+2025-11-26 10:59:27,125 - virtual_tryon - INFO - ✂️ Cropping composite image into individual views...
+2025-11-26 10:59:27,141 - virtual_tryon - INFO - Composite image size: 4096x4096
+2025-11-26 10:59:27,738 - virtual_tryon - INFO - ✅ Saved front view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\view_front.png (1080x1440)
+2025-11-26 10:59:27,974 - virtual_tryon - INFO - ✅ Saved side view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\view_side.png (1080x1440)
+2025-11-26 10:59:28,220 - virtual_tryon - INFO - ✅ Saved back view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\view_back.png (1080x1440)
+2025-11-26 10:59:28,544 - virtual_tryon - INFO - ✅ Saved closeup view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\view_closeup.png (1080x1440)
+2025-11-26 10:59:28,545 - virtual_tryon - INFO - ✂️ Successfully cropped all 4 views!
+2025-11-26 10:59:28,553 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-26 10:59:28,554 - virtual_tryon - INFO - 
+============================================================
+2025-11-26 10:59:28,554 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-26 10:59:28,554 - virtual_tryon - INFO - ============================================================
+2025-11-26 10:59:28,555 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-26 10:59:28,555 - virtual_tryon - INFO -   - back.jpg
+2025-11-26 10:59:28,556 - virtual_tryon - INFO -   - front.jpg
+2025-11-26 10:59:28,556 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-26 10:59:28,557 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-26 10:59:28,557 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-26 10:59:28,557 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-26 10:59:28,558 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-26 10:59:28,558 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-26 10:59:28,564 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-26 10:59:28,571 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-26 10:59:28,571 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-26 11:00:17,702 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-26 11:00:17,725 - virtual_tryon - INFO - 🔍 Enhancing then upscaling composite_all_views.png from 1024x1024 to 4096x4096
+2025-11-26 11:01:00,466 - virtual_tryon - INFO - ✅ Upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views_upscaled.png (4096x4096)
+2025-11-26 11:01:00,473 - virtual_tryon - INFO - ✂️ Cropping composite image into individual views...
+2025-11-26 11:01:00,484 - virtual_tryon - INFO - Composite image size: 4096x4096
+2025-11-26 11:01:01,123 - virtual_tryon - INFO - ✅ Saved front view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\view_front.png (1080x1440)
+2025-11-26 11:01:01,393 - virtual_tryon - INFO - ✅ Saved side view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\view_side.png (1080x1440)
+2025-11-26 11:01:01,660 - virtual_tryon - INFO - ✅ Saved back view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\view_back.png (1080x1440)
+2025-11-26 11:01:01,968 - virtual_tryon - INFO - ✅ Saved closeup view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\view_closeup.png (1080x1440)
+2025-11-26 11:01:01,969 - virtual_tryon - INFO - ✂️ Successfully cropped all 4 views!
+2025-11-26 11:01:01,978 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-26 11:01:01,978 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-26 11:33:31,131 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-26 11:33:31,132 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-26 11:33:31,133 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-26 11:33:31,134 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-26 11:33:31,134 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-26 11:33:31,135 - virtual_tryon - INFO - 
+============================================================
+2025-11-26 11:33:31,135 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-26 11:33:31,136 - virtual_tryon - INFO - ============================================================
+2025-11-26 11:33:31,136 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-26 11:33:31,137 - virtual_tryon - INFO -   - back.jpg
+2025-11-26 11:33:31,137 - virtual_tryon - INFO -   - front.jpg
+2025-11-26 11:33:31,138 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-26 11:33:31,138 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-26 11:33:31,139 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-26 11:33:31,139 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-26 11:33:31,139 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-26 11:33:31,140 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-26 11:33:31,196 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-26 11:33:31,203 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-26 11:33:31,203 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-26 11:34:14,217 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-26 11:34:14,217 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to composite_all_views.png
+2025-11-26 11:34:43,391 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_zucchini_refined.png
+2025-11-26 11:34:43,405 - virtual_tryon - INFO - 🔍 AI-powered upscaling composite_all_views.png from 1024x1024 to 4096x4096
+2025-11-26 11:35:01,929 - virtual_tryon - WARNING - ⚠️ AI model returned 1024x1024 instead of 4096x4096, applying final resize...
+2025-11-26 11:35:03,776 - virtual_tryon - INFO - ✅ AI-upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views_upscaled.png (4096x4096)
+2025-11-26 11:35:03,781 - virtual_tryon - INFO - ✂️ Cropping composite image into individual views...
+2025-11-26 11:35:03,792 - virtual_tryon - INFO - Composite image size: 4096x4096
+2025-11-26 11:35:04,516 - virtual_tryon - INFO - ✅ Saved front view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_front.png (1080x1440)
+2025-11-26 11:35:04,754 - virtual_tryon - INFO - ✅ Saved side view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_side.png (1080x1440)
+2025-11-26 11:35:05,034 - virtual_tryon - INFO - ✅ Saved back view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_back.png (1080x1440)
+2025-11-26 11:35:05,346 - virtual_tryon - INFO - ✅ Saved closeup view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_closeup.png (1080x1440)
+2025-11-26 11:35:05,347 - virtual_tryon - INFO - ✂️ Successfully cropped all 4 views!
+2025-11-26 11:35:05,354 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-26 11:35:05,354 - virtual_tryon - INFO - 
+============================================================
+2025-11-26 11:35:05,355 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-26 11:35:05,355 - virtual_tryon - INFO - ============================================================
+2025-11-26 11:35:05,356 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-26 11:35:05,356 - virtual_tryon - INFO -   - back.jpg
+2025-11-26 11:35:05,357 - virtual_tryon - INFO -   - front.jpg
+2025-11-26 11:35:05,357 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-26 11:35:05,358 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-26 11:35:05,358 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-26 11:35:05,358 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-26 11:35:05,359 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-26 11:35:05,359 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-26 11:35:05,369 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-26 11:35:05,377 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-26 11:35:05,377 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-26 11:35:45,163 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-26 11:35:45,164 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to composite_all_views.png
+2025-11-26 11:36:09,006 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_zucchini_refined.png
+2025-11-26 11:36:09,019 - virtual_tryon - INFO - 🔍 AI-powered upscaling composite_all_views.png from 1024x1024 to 4096x4096
+2025-11-26 11:36:28,078 - virtual_tryon - WARNING - ⚠️ AI model returned 1024x1024 instead of 4096x4096, applying final resize...
+2025-11-26 11:36:30,022 - virtual_tryon - INFO - ✅ AI-upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views_upscaled.png (4096x4096)
+2025-11-26 11:36:30,027 - virtual_tryon - INFO - ✂️ Cropping composite image into individual views...
+2025-11-26 11:36:30,043 - virtual_tryon - INFO - Composite image size: 4096x4096
+2025-11-26 11:36:30,628 - virtual_tryon - INFO - ✅ Saved front view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\view_front.png (1080x1440)
+2025-11-26 11:36:30,889 - virtual_tryon - INFO - ✅ Saved side view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\view_side.png (1080x1440)
+2025-11-26 11:36:31,122 - virtual_tryon - INFO - ✅ Saved back view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\view_back.png (1080x1440)
+2025-11-26 11:36:31,420 - virtual_tryon - INFO - ✅ Saved closeup view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\view_closeup.png (1080x1440)
+2025-11-26 11:36:31,420 - virtual_tryon - INFO - ✂️ Successfully cropped all 4 views!
+2025-11-26 11:36:31,427 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-26 11:36:31,427 - virtual_tryon - INFO - 
+============================================================
+2025-11-26 11:36:31,428 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-26 11:36:31,428 - virtual_tryon - INFO - ============================================================
+2025-11-26 11:36:31,429 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-26 11:36:31,430 - virtual_tryon - INFO -   - back.jpg
+2025-11-26 11:36:31,430 - virtual_tryon - INFO -   - front.jpg
+2025-11-26 11:36:31,431 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-26 11:36:31,431 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-26 11:36:31,432 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-26 11:36:31,432 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-26 11:36:31,432 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-26 11:36:31,433 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-26 11:36:31,441 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-26 11:36:31,446 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-26 11:36:31,447 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-26 11:37:04,697 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-26 11:37:04,698 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to composite_all_views.png
+2025-11-26 11:37:22,557 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_zucchini_refined.png
+2025-11-26 11:37:22,571 - virtual_tryon - INFO - 🔍 AI-powered upscaling composite_all_views.png from 1024x1024 to 4096x4096
+2025-11-26 11:37:44,016 - virtual_tryon - WARNING - ⚠️ AI model returned 1024x1024 instead of 4096x4096, applying final resize...
+2025-11-26 11:37:46,017 - virtual_tryon - INFO - ✅ AI-upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views_upscaled.png (4096x4096)
+2025-11-26 11:37:46,023 - virtual_tryon - INFO - ✂️ Cropping composite image into individual views...
+2025-11-26 11:37:46,042 - virtual_tryon - INFO - Composite image size: 4096x4096
+2025-11-26 11:37:46,719 - virtual_tryon - INFO - ✅ Saved front view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\view_front.png (1080x1440)
+2025-11-26 11:37:47,078 - virtual_tryon - INFO - ✅ Saved side view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\view_side.png (1080x1440)
+2025-11-26 11:37:47,369 - virtual_tryon - INFO - ✅ Saved back view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\view_back.png (1080x1440)
+2025-11-26 11:37:47,772 - virtual_tryon - INFO - ✅ Saved closeup view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\view_closeup.png (1080x1440)
+2025-11-26 11:37:47,773 - virtual_tryon - INFO - ✂️ Successfully cropped all 4 views!
+2025-11-26 11:37:47,781 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-26 11:37:47,782 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-26 11:58:41,341 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-26 11:58:41,341 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-26 11:58:41,342 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-26 11:58:41,343 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-26 11:58:41,343 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-26 11:58:41,343 - virtual_tryon - INFO - 
+============================================================
+2025-11-26 11:58:41,344 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-26 11:58:41,344 - virtual_tryon - INFO - ============================================================
+2025-11-26 11:58:41,345 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-26 11:58:41,345 - virtual_tryon - INFO -   - back.jpg
+2025-11-26 11:58:41,345 - virtual_tryon - INFO -   - front.jpg
+2025-11-26 11:58:41,346 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-26 11:58:41,346 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-26 11:58:41,347 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-26 11:58:41,347 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-26 11:58:41,347 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-26 11:58:41,348 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-26 11:58:41,376 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-26 11:58:41,382 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-26 11:58:41,382 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-26 11:59:25,910 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-26 11:59:25,911 - virtual_tryon - INFO - 🚀 Starting composite pipeline: Upscale → Crop → Zucchini Refinement
+2025-11-26 11:59:25,933 - virtual_tryon - INFO - 🔍 AI-powered upscaling composite_all_views.png from 1024x1024 to 4096x4096
+2025-11-26 11:59:56,629 - virtual_tryon - WARNING - ⚠️ AI model returned 1024x1024 instead of 4096x4096, applying final resize...
+2025-11-26 11:59:58,180 - virtual_tryon - INFO - ✅ AI-upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views_upscaled.png (4096x4096)
+2025-11-26 11:59:58,183 - virtual_tryon - INFO - ✅ Composite upscaling completed
+2025-11-26 11:59:58,184 - virtual_tryon - INFO - ✂️ Cropping composite image into individual views...
+2025-11-26 11:59:58,192 - virtual_tryon - INFO - Composite image size: 4096x4096
+2025-11-26 11:59:58,667 - virtual_tryon - INFO - ✅ Saved front view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_front.png (1080x1440)
+2025-11-26 11:59:58,850 - virtual_tryon - INFO - ✅ Saved side view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_side.png (1080x1440)
+2025-11-26 11:59:59,045 - virtual_tryon - INFO - ✅ Saved back view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_back.png (1080x1440)
+2025-11-26 11:59:59,280 - virtual_tryon - INFO - ✅ Saved closeup view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_closeup.png (1080x1440)
+2025-11-26 11:59:59,280 - virtual_tryon - INFO - ✂️ Successfully cropped all 4 views!
+2025-11-26 11:59:59,284 - virtual_tryon - INFO - ✅ Composite cropping completed
+2025-11-26 11:59:59,285 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_front.png
+2025-11-26 12:00:19,665 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\zucchini_front.png
+2025-11-26 12:00:19,666 - virtual_tryon - INFO - ✅ Zucchini refinement for front completed
+2025-11-26 12:00:19,667 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_side.png
+2025-11-26 12:00:55,819 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\zucchini_side.png
+2025-11-26 12:00:55,820 - virtual_tryon - INFO - ✅ Zucchini refinement for side completed
+2025-11-26 12:00:55,821 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_back.png
+2025-11-26 12:01:24,597 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\zucchini_back.png
+2025-11-26 12:01:24,599 - virtual_tryon - INFO - ✅ Zucchini refinement for back completed
+2025-11-26 12:01:24,600 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_closeup.png
+2025-11-26 12:02:00,871 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\zucchini_closeup.png
+2025-11-26 12:02:00,872 - virtual_tryon - INFO - ✅ Zucchini refinement for closeup completed
+2025-11-26 12:02:00,872 - virtual_tryon - INFO - 🎉 Composite pipeline completed successfully!
+2025-11-26 12:02:00,873 - virtual_tryon - INFO - ✅ Upscaled composite: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views_upscaled.png
+2025-11-26 12:02:00,873 - virtual_tryon - INFO - ✅ Cropped views: 4 images
+2025-11-26 12:02:00,873 - virtual_tryon - INFO -    - front: view_front.png
+2025-11-26 12:02:00,874 - virtual_tryon - INFO -    - side: view_side.png
+2025-11-26 12:02:00,874 - virtual_tryon - INFO -    - back: view_back.png
+2025-11-26 12:02:00,874 - virtual_tryon - INFO -    - closeup: view_closeup.png
+2025-11-26 12:02:00,874 - virtual_tryon - INFO - ✅ Zucchini refined views: 4 images
+2025-11-26 12:02:00,875 - virtual_tryon - INFO -    - front: zucchini_front.png
+2025-11-26 12:02:00,875 - virtual_tryon - INFO -    - side: zucchini_side.png
+2025-11-26 12:02:00,875 - virtual_tryon - INFO -    - back: zucchini_back.png
+2025-11-26 12:02:00,875 - virtual_tryon - INFO -    - closeup: zucchini_closeup.png
+2025-11-26 12:02:00,877 - virtual_tryon - INFO - ✅ Generated composite for 1341
+2025-11-26 12:02:00,877 - virtual_tryon - INFO - 
+============================================================
+2025-11-26 12:02:00,877 - virtual_tryon - INFO - Processing directory: 1544
+2025-11-26 12:02:00,878 - virtual_tryon - INFO - ============================================================
+2025-11-26 12:02:00,878 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-26 12:02:00,878 - virtual_tryon - INFO -   - back.jpg
+2025-11-26 12:02:00,879 - virtual_tryon - INFO -   - front.jpg
+2025-11-26 12:02:00,879 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output
+2025-11-26 12:02:00,879 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-26 12:02:00,879 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-26 12:02:00,879 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-26 12:02:00,880 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-26 12:02:00,880 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-26 12:02:00,887 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-26 12:02:00,893 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-26 12:02:00,894 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-26 12:02:55,852 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views.png
+2025-11-26 12:02:55,852 - virtual_tryon - INFO - 🚀 Starting composite pipeline: Upscale → Crop → Zucchini Refinement
+2025-11-26 12:02:55,876 - virtual_tryon - INFO - 🔍 AI-powered upscaling composite_all_views.png from 1024x1024 to 4096x4096
+2025-11-26 12:03:19,073 - virtual_tryon - WARNING - ⚠️ AI model returned 1024x1024 instead of 4096x4096, applying final resize...
+2025-11-26 12:03:20,768 - virtual_tryon - INFO - ✅ AI-upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views_upscaled.png (4096x4096)
+2025-11-26 12:03:20,772 - virtual_tryon - INFO - ✅ Composite upscaling completed
+2025-11-26 12:03:20,773 - virtual_tryon - INFO - ✂️ Cropping composite image into individual views...
+2025-11-26 12:03:20,782 - virtual_tryon - INFO - Composite image size: 4096x4096
+2025-11-26 12:03:21,275 - virtual_tryon - INFO - ✅ Saved front view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\view_front.png (1080x1440)
+2025-11-26 12:03:21,468 - virtual_tryon - INFO - ✅ Saved side view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\view_side.png (1080x1440)
+2025-11-26 12:03:21,660 - virtual_tryon - INFO - ✅ Saved back view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\view_back.png (1080x1440)
+2025-11-26 12:03:21,928 - virtual_tryon - INFO - ✅ Saved closeup view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\view_closeup.png (1080x1440)
+2025-11-26 12:03:21,929 - virtual_tryon - INFO - ✂️ Successfully cropped all 4 views!
+2025-11-26 12:03:21,934 - virtual_tryon - INFO - ✅ Composite cropping completed
+2025-11-26 12:03:21,934 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_front.png
+2025-11-26 12:03:40,462 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\zucchini_front.png
+2025-11-26 12:03:40,463 - virtual_tryon - INFO - ✅ Zucchini refinement for front completed
+2025-11-26 12:03:40,463 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_side.png
+2025-11-26 12:04:01,294 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\zucchini_side.png
+2025-11-26 12:04:01,295 - virtual_tryon - INFO - ✅ Zucchini refinement for side completed
+2025-11-26 12:04:01,295 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_back.png
+2025-11-26 12:04:23,488 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\zucchini_back.png
+2025-11-26 12:04:23,490 - virtual_tryon - INFO - ✅ Zucchini refinement for back completed
+2025-11-26 12:04:23,490 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_closeup.png
+2025-11-26 12:04:51,097 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\zucchini_closeup.png
+2025-11-26 12:04:51,098 - virtual_tryon - INFO - ✅ Zucchini refinement for closeup completed
+2025-11-26 12:04:51,099 - virtual_tryon - INFO - 🎉 Composite pipeline completed successfully!
+2025-11-26 12:04:51,099 - virtual_tryon - INFO - ✅ Upscaled composite: C:\Users\admin\Desktop\nanobanana_pro\inputs\1544\output\composite_all_views_upscaled.png
+2025-11-26 12:04:51,099 - virtual_tryon - INFO - ✅ Cropped views: 4 images
+2025-11-26 12:04:51,100 - virtual_tryon - INFO -    - front: view_front.png
+2025-11-26 12:04:51,100 - virtual_tryon - INFO -    - side: view_side.png
+2025-11-26 12:04:51,100 - virtual_tryon - INFO -    - back: view_back.png
+2025-11-26 12:04:51,101 - virtual_tryon - INFO -    - closeup: view_closeup.png
+2025-11-26 12:04:51,101 - virtual_tryon - INFO - ✅ Zucchini refined views: 4 images
+2025-11-26 12:04:51,101 - virtual_tryon - INFO -    - front: zucchini_front.png
+2025-11-26 12:04:51,101 - virtual_tryon - INFO -    - side: zucchini_side.png
+2025-11-26 12:04:51,101 - virtual_tryon - INFO -    - back: zucchini_back.png
+2025-11-26 12:04:51,102 - virtual_tryon - INFO -    - closeup: zucchini_closeup.png
+2025-11-26 12:04:51,102 - virtual_tryon - INFO - ✅ Generated composite for 1544
+2025-11-26 12:04:51,103 - virtual_tryon - INFO - 
+============================================================
+2025-11-26 12:04:51,103 - virtual_tryon - INFO - Processing directory: 1546
+2025-11-26 12:04:51,103 - virtual_tryon - INFO - ============================================================
+2025-11-26 12:04:51,104 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-26 12:04:51,104 - virtual_tryon - INFO -   - back.jpg
+2025-11-26 12:04:51,105 - virtual_tryon - INFO -   - front.jpg
+2025-11-26 12:04:51,105 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output
+2025-11-26 12:04:51,106 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-26 12:04:51,106 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-26 12:04:51,106 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-26 12:04:51,107 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-26 12:04:51,107 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-26 12:04:51,112 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-26 12:04:51,118 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-26 12:04:51,119 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-26 12:05:37,967 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views.png
+2025-11-26 12:05:37,968 - virtual_tryon - INFO - 🚀 Starting composite pipeline: Upscale → Crop → Zucchini Refinement
+2025-11-26 12:05:37,998 - virtual_tryon - INFO - 🔍 AI-powered upscaling composite_all_views.png from 1024x1024 to 4096x4096
+2025-11-26 12:06:02,328 - virtual_tryon - WARNING - ⚠️ AI model returned 1024x1024 instead of 4096x4096, applying final resize...
+2025-11-26 12:06:03,984 - virtual_tryon - INFO - ✅ AI-upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views_upscaled.png (4096x4096)
+2025-11-26 12:06:03,990 - virtual_tryon - INFO - ✅ Composite upscaling completed
+2025-11-26 12:06:03,991 - virtual_tryon - INFO - ✂️ Cropping composite image into individual views...
+2025-11-26 12:06:04,000 - virtual_tryon - INFO - Composite image size: 4096x4096
+2025-11-26 12:06:04,486 - virtual_tryon - INFO - ✅ Saved front view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\view_front.png (1080x1440)
+2025-11-26 12:06:04,714 - virtual_tryon - INFO - ✅ Saved side view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\view_side.png (1080x1440)
+2025-11-26 12:06:04,988 - virtual_tryon - INFO - ✅ Saved back view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\view_back.png (1080x1440)
+2025-11-26 12:06:05,193 - virtual_tryon - INFO - ✅ Saved closeup view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\view_closeup.png (1080x1440)
+2025-11-26 12:06:05,194 - virtual_tryon - INFO - ✂️ Successfully cropped all 4 views!
+2025-11-26 12:06:05,200 - virtual_tryon - INFO - ✅ Composite cropping completed
+2025-11-26 12:06:05,200 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_front.png
+2025-11-26 12:06:23,742 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\zucchini_front.png
+2025-11-26 12:06:23,744 - virtual_tryon - INFO - ✅ Zucchini refinement for front completed
+2025-11-26 12:06:23,744 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_side.png
+2025-11-26 12:06:50,195 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\zucchini_side.png
+2025-11-26 12:06:50,196 - virtual_tryon - INFO - ✅ Zucchini refinement for side completed
+2025-11-26 12:06:50,196 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_back.png
+2025-11-26 12:07:15,937 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\zucchini_back.png
+2025-11-26 12:07:15,938 - virtual_tryon - INFO - ✅ Zucchini refinement for back completed
+2025-11-26 12:07:15,939 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_closeup.png
+2025-11-26 12:07:56,699 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\zucchini_closeup.png
+2025-11-26 12:07:56,701 - virtual_tryon - INFO - ✅ Zucchini refinement for closeup completed
+2025-11-26 12:07:56,701 - virtual_tryon - INFO - 🎉 Composite pipeline completed successfully!
+2025-11-26 12:07:56,701 - virtual_tryon - INFO - ✅ Upscaled composite: C:\Users\admin\Desktop\nanobanana_pro\inputs\1546\output\composite_all_views_upscaled.png
+2025-11-26 12:07:56,702 - virtual_tryon - INFO - ✅ Cropped views: 4 images
+2025-11-26 12:07:56,702 - virtual_tryon - INFO -    - front: view_front.png
+2025-11-26 12:07:56,703 - virtual_tryon - INFO -    - side: view_side.png
+2025-11-26 12:07:56,703 - virtual_tryon - INFO -    - back: view_back.png
+2025-11-26 12:07:56,703 - virtual_tryon - INFO -    - closeup: view_closeup.png
+2025-11-26 12:07:56,704 - virtual_tryon - INFO - ✅ Zucchini refined views: 4 images
+2025-11-26 12:07:56,704 - virtual_tryon - INFO -    - front: zucchini_front.png
+2025-11-26 12:07:56,704 - virtual_tryon - INFO -    - side: zucchini_side.png
+2025-11-26 12:07:56,704 - virtual_tryon - INFO -    - back: zucchini_back.png
+2025-11-26 12:07:56,705 - virtual_tryon - INFO -    - closeup: zucchini_closeup.png
+2025-11-26 12:07:56,706 - virtual_tryon - INFO - ✅ Generated composite for 1546
+2025-11-26 12:07:56,706 - virtual_tryon - INFO - 
+✅ Successfully generated 3 composite images!
+2025-11-26 13:11:45,895 - virtual_tryon - INFO - ✅ Gemini image generation initialized successfully!
+2025-11-26 13:11:45,895 - virtual_tryon - INFO - Starting single composite image generation...
+2025-11-26 13:11:45,896 - virtual_tryon - INFO - Found subdirectory with images: 1341
+2025-11-26 13:11:45,896 - virtual_tryon - INFO - Found subdirectory with images: 1544
+2025-11-26 13:11:45,896 - virtual_tryon - INFO - Found subdirectory with images: 1546
+2025-11-26 13:11:45,897 - virtual_tryon - INFO - 
+============================================================
+2025-11-26 13:11:45,897 - virtual_tryon - INFO - Processing directory: 1341
+2025-11-26 13:11:45,897 - virtual_tryon - INFO - ============================================================
+2025-11-26 13:11:45,898 - virtual_tryon - INFO - Found 2 garment images:
+2025-11-26 13:11:45,898 - virtual_tryon - INFO -   - back.jpg
+2025-11-26 13:11:45,898 - virtual_tryon - INFO -   - front.jpg
+2025-11-26 13:11:45,898 - virtual_tryon - INFO - Output directory: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output
+2025-11-26 13:11:45,899 - virtual_tryon - INFO - Matched front.jpg to front view
+2025-11-26 13:11:45,899 - virtual_tryon - INFO - Matched back.jpg to back view
+2025-11-26 13:11:45,899 - virtual_tryon - INFO - Using default back.jpg for side view
+2025-11-26 13:11:45,899 - virtual_tryon - INFO - Using default back.jpg for close-up view
+2025-11-26 13:11:45,900 - virtual_tryon - INFO - 🎨 Generating single composite image with 4 views...
+2025-11-26 13:11:45,973 - virtual_tryon - INFO - Prepared front.jpg for front
+2025-11-26 13:11:45,981 - virtual_tryon - INFO - Prepared back.jpg for side
+2025-11-26 13:11:45,981 - virtual_tryon - INFO - 🎨 Calling API to generate composite image with ALL context images...
+2025-11-26 13:12:48,023 - virtual_tryon - INFO - ✅ Composite image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views.png
+2025-11-26 13:12:48,024 - virtual_tryon - INFO - 🚀 Starting composite pipeline: Upscale → Crop → Zucchini Refinement
+2025-11-26 13:13:52,073 - virtual_tryon - ERROR - ❌ Zucchini composite refinement failed: 'ImageGenerationService' object has no attribute '_extract_and_save_image'
+2025-11-26 13:13:52,092 - virtual_tryon - INFO - 🔍 AI-powered upscaling composite_all_views.png from 1024x1024 to 4096x4096
+2025-11-26 13:14:51,906 - virtual_tryon - WARNING - ⚠️ AI model returned 1024x1024 instead of 4096x4096, applying final resize...
+2025-11-26 13:14:53,386 - virtual_tryon - INFO - ✅ AI-upscaled image saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\composite_all_views_upscaled.png (4096x4096)
+2025-11-26 13:14:53,391 - virtual_tryon - INFO - ✅ Composite upscaling completed
+2025-11-26 13:14:53,391 - virtual_tryon - INFO - ✂️ Cropping composite image into individual views...
+2025-11-26 13:14:53,402 - virtual_tryon - INFO - Composite image size: 4096x4096
+2025-11-26 13:14:53,829 - virtual_tryon - INFO - ✅ Saved front view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_front.png (1080x1440)
+2025-11-26 13:14:54,010 - virtual_tryon - INFO - ✅ Saved side view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_side.png (1080x1440)
+2025-11-26 13:14:54,204 - virtual_tryon - INFO - ✅ Saved back view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_back.png (1080x1440)
+2025-11-26 13:14:54,420 - virtual_tryon - INFO - ✅ Saved closeup view: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\view_closeup.png (1080x1440)
+2025-11-26 13:14:54,421 - virtual_tryon - INFO - ✂️ Successfully cropped all 4 views!
+2025-11-26 13:14:54,427 - virtual_tryon - INFO - ✅ Composite cropping completed
+2025-11-26 13:14:54,427 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_front.png
+2025-11-26 13:15:14,422 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\zucchini_front.png
+2025-11-26 13:15:14,424 - virtual_tryon - INFO - ✅ Zucchini refinement for front completed
+2025-11-26 13:15:14,424 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_side.png
+2025-11-26 13:15:38,693 - virtual_tryon - INFO - ✅ Zucchini brand refinement saved to: C:\Users\admin\Desktop\nanobanana_pro\inputs\1341\output\zucchini_side.png
+2025-11-26 13:15:38,695 - virtual_tryon - INFO - ✅ Zucchini refinement for side completed
+2025-11-26 13:15:38,695 - virtual_tryon - INFO - 🎨 Applying Zucchini brand refinement to view_back.png
