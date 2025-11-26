@@ -82,10 +82,8 @@ cp .env.example .env
 # Edit .env with your Gemini API key
 
 # .env file
-# Gemini API Configuration
 GEMINI_API_KEY=AIzaxxx.........
 
-# Application Settings
 LOG_LEVEL=INFO
 MAX_IMAGE_SIZE=10485760
 REQUEST_TIMEOUT=30
@@ -95,5 +93,6 @@ MAX_RETRIES=XX
 
 # Run the virtual try-on system
 python main.py
+
 
 
